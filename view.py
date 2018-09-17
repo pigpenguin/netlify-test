@@ -34,8 +34,13 @@ def user_html(user):
 
 def result_list(results):
     doc, tag, text = Doc().tagtext()
+    max_length = 100
+    current_length = 0
     with tag("tb"):
         for level_id, rank in results:
+            current_length += 1
+            if current_length >= max_length:
+                break
             with tag("tr"):
                 level = Level.levels[level_id]
                 url = "../../../levels/{}/".format(level.level_id)

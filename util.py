@@ -15,11 +15,11 @@ class cd:
     """ Context manager to enter directories and do stuff """
     def __init__(self,new_path):
         mkdir(new_path)
-        self.new_path = os.path.expanduser(new_path)
+        self.new_path = os.path.abspath(new_path)
 
     def __enter__(self):
         self.saved_path = os.getcwd()
-        os.chdir(self.saved_path)
+        os.chdir(self.new_path)
         return self
 
     def __exit__(self, etype, value, traceback):

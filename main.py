@@ -13,6 +13,11 @@ input_dir = "data"
 level_index = []
 
 def main():
+    with cd(output_dir):
+        with cd("test") as directory:
+            with directory.open("ay.txt",'w') as file:
+                file.write("success!")
+
     print("Loading data:")
     for subdir, dirs, names in os.walk(input_dir):
         for name in names:
@@ -21,10 +26,10 @@ def main():
                 Level.from_json(data)
 
     for path, html in render_users():
-        path = os.path.join(output_dir,path)
-        with cd(path) as directory:
-            with directory.open("index.html", 'w') as file:
-                file.write(html)
+        with cd(output_dir):
+            with cd(path) as directory:
+                with directory.open("index.html", 'w') as file:
+                    file.write(html)
 
 
 if __name__ == "__main__":
