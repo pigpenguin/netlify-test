@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 yattag = "*"
+"progressbar2" = "*"
+"num2words" = "*"
 
 [dev-packages]
 

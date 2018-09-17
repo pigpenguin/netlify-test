@@ -1,4 +1,5 @@
 import os
+from num2words import num2words
 
 def format_time(time):
     """ Formats milliseconds to hh:mm:ss.ff"""
@@ -6,6 +7,9 @@ def format_time(time):
     minutes = (time//(1000*60)) % 60
     seconds = (time/1000) % 60
     return "{}:{:02d}:{:05.2f}".format(hours, minutes, seconds)
+
+def format_place(place):
+    return num2words(place, to="ordinal_num")
 
 class cd:
     """ Context manager to enter directories and do stuff """
