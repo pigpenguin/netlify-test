@@ -13,11 +13,6 @@ input_dir = "data"
 level_index = []
 
 def main():
-    with cd(output_dir):
-        with cd("test") as directory:
-            with directory.open("ay.txt",'w') as file:
-                file.write("success!")
-
     print("Loading data:")
     for subdir, dirs, names in os.walk(input_dir):
         for name in names:
