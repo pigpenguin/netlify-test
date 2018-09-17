@@ -1,0 +1,35 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561197973325713
+  },
+  "displayName": "Super laser person (alpha)",
+  "id": 1332325104,
+  "description": "An early test of a 2d platforming \"arcade game\" built entirely with the animation system, give feedback if you like!\r\n\r\ncontrols:\r\njet pitch - jump/interact\r\njet roll - move left/right\r\nself destruct - pause/call menu\r\n\r\ndebug ring:\r\norange - processing/lo",
+  "fileName": "slp",
+  "upvotes": 4,
+  "downvotes": 0,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Kramatus",
+        "steamID": 76561198041743735
+      },
+      "time": 4690
+    },
+    {
+      "player": {
+        "displayName": "royaloliver",
+        "steamID": 76561197995249590
+      },
+      "time": 14950
+    },
+    {
+      "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 46260
+    }
+  ]
+}

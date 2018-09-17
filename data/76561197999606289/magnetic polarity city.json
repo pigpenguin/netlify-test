@@ -1,0 +1,7273 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561197999606289
+  },
+  "displayName": "Magnetic Polarity City",
+  "id": 1110158492,
+  "description": "this is my first ever official distance level. it mostly utilizes gravity and force zones. showing what these tools can be used for.\r\n\r\nthe diamond time is 2:20:00, \r\ngold 4 minutes, \r\nsilver 6, \r\nbronze 8.",
+  "fileName": "magnetic polarity city",
+  "upvotes": 798,
+  "downvotes": 63,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "ferreus",
+        "steamID": 76561198040630941
+      },
+      "time": 75920
+    },
+    {
+      "player": {
+        "displayName": "raider6767",
+        "steamID": 76561198062916677
+      },
+      "time": 77070
+    },
+    {
+      "player": {
+        "displayName": "jcav",
+        "steamID": 76561198046590185
+      },
+      "time": 79580
+    },
+    {
+      "player": {
+        "displayName": "Danny Burke",
+        "steamID": 76561198159851584
+      },
+      "time": 81330
+    },
+    {
+      "player": {
+        "displayName": "tiedye",
+        "steamID": 76561198147688475
+      },
+      "time": 83330
+    },
+    {
+      "player": {
+        "displayName": "oman",
+        "steamID": 76561198045059228
+      },
+      "time": 86630
+    },
+    {
+      "player": {
+        "displayName": "IllKIllU",
+        "steamID": 76561198216635512
+      },
+      "time": 100720
+    },
+    {
+      "player": {
+        "displayName": "mcatooch",
+        "steamID": 76561198355653194
+      },
+      "time": 100820
+    },
+    {
+      "player": {
+        "displayName": "Icebound777",
+        "steamID": 76561198025134651
+      },
+      "time": 105410
+    },
+    {
+      "player": {
+        "displayName": "Flaming Lump",
+        "steamID": 76561198002421218
+      },
+      "time": 105460
+    },
+    {
+      "player": {
+        "displayName": "Changeling",
+        "steamID": 76561197989390984
+      },
+      "time": 105510
+    },
+    {
+      "player": {
+        "displayName": "Aku",
+        "steamID": 76561197999148299
+      },
+      "time": 105930
+    },
+    {
+      "player": {
+        "displayName": "O.W.N",
+        "steamID": 76561198168068862
+      },
+      "time": 106790
+    },
+    {
+      "player": {
+        "displayName": "Luxora",
+        "steamID": 76561198037771354
+      },
+      "time": 106800
+    },
+    {
+      "player": {
+        "displayName": "Gundord",
+        "steamID": 76561198062699642
+      },
+      "time": 107030
+    },
+    {
+      "player": {
+        "displayName": "Zenji",
+        "steamID": 76561198123363975
+      },
+      "time": 107040
+    },
+    {
+      "player": {
+        "displayName": "Destyn",
+        "steamID": 76561198340648076
+      },
+      "time": 107400
+    },
+    {
+      "player": {
+        "displayName": "Eagl3",
+        "steamID": 76561198076859532
+      },
+      "time": 107580
+    },
+    {
+      "player": {
+        "displayName": "RaiderZulu",
+        "steamID": 76561198107572699
+      },
+      "time": 107760
+    },
+    {
+      "player": {
+        "displayName": "Zephyrous",
+        "steamID": 76561198187166046
+      },
+      "time": 107890
+    },
+    {
+      "player": {
+        "displayName": "Geeso",
+        "steamID": 76561198055929097
+      },
+      "time": 108020
+    },
+    {
+      "player": {
+        "displayName": "nico",
+        "steamID": 76561198041500742
+      },
+      "time": 108110
+    },
+    {
+      "player": {
+        "displayName": "Yarimi",
+        "steamID": 76561198058972888
+      },
+      "time": 108340
+    },
+    {
+      "player": {
+        "displayName": "g.brincks",
+        "steamID": 76561198048605889
+      },
+      "time": 108500
+    },
+    {
+      "player": {
+        "displayName": "El Weebo Bandito",
+        "steamID": 76561198028961201
+      },
+      "time": 109100
+    },
+    {
+      "player": {
+        "displayName": "soyatu",
+        "steamID": 76561198040771422
+      },
+      "time": 109120
+    },
+    {
+      "player": {
+        "displayName": "Space",
+        "steamID": 76561198136946798
+      },
+      "time": 109220
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 109300
+    },
+    {
+      "player": {
+        "displayName": "Jus In Bello",
+        "steamID": 76561198036639164
+      },
+      "time": 109690
+    },
+    {
+      "player": {
+        "displayName": "Idontevenknowyou!",
+        "steamID": 76561198065909567
+      },
+      "time": 109740
+    },
+    {
+      "player": {
+        "displayName": "I am a wizard, Unbounded",
+        "steamID": 76561198007572917
+      },
+      "time": 109960
+    },
+    {
+      "player": {
+        "displayName": "遠くの愛好家",
+        "steamID": 76561198067258571
+      },
+      "time": 110000
+    },
+    {
+      "player": {
+        "displayName": "Frum",
+        "steamID": 76561198000807599
+      },
+      "time": 110220
+    },
+    {
+      "player": {
+        "displayName": "Alex Chosen",
+        "steamID": 76561197999606289
+      },
+      "time": 110310
+    },
+    {
+      "player": {
+        "displayName": "Bistdocs",
+        "steamID": 76561198111708439
+      },
+      "time": 110400
+    },
+    {
+      "player": {
+        "displayName": "Phazonium",
+        "steamID": 76561198025024919
+      },
+      "time": 110430
+    },
+    {
+      "player": {
+        "displayName": "Seu Pai",
+        "steamID": 76561198096940886
+      },
+      "time": 110870
+    },
+    {
+      "player": {
+        "displayName": "Ninja Squirel",
+        "steamID": 76561198042529097
+      },
+      "time": 110890
+    },
+    {
+      "player": {
+        "displayName": "Onovek_Ekam",
+        "steamID": 76561198066297993
+      },
+      "time": 110910
+    },
+    {
+      "player": {
+        "displayName": "Wedel25",
+        "steamID": 76561198220317168
+      },
+      "time": 110930
+    },
+    {
+      "player": {
+        "displayName": "resistance is futile",
+        "steamID": 76561198146782074
+      },
+      "time": 111010
+    },
+    {
+      "player": {
+        "displayName": "Overlord",
+        "steamID": 76561198433725794
+      },
+      "time": 111050
+    },
+    {
+      "player": {
+        "displayName": "Grundi",
+        "steamID": 76561198106251043
+      },
+      "time": 111090
+    },
+    {
+      "player": {
+        "displayName": "Seekr",
+        "steamID": 76561198026317880
+      },
+      "time": 111110
+    },
+    {
+      "player": {
+        "displayName": "Eternalblast",
+        "steamID": 76561198042307503
+      },
+      "time": 111110
+    },
+    {
+      "player": {
+        "displayName": "GYROROBO",
+        "steamID": 76561197997834917
+      },
+      "time": 111330
+    },
+    {
+      "player": {
+        "displayName": "Lukas",
+        "steamID": 76561198065415045
+      },
+      "time": 111430
+    },
+    {
+      "player": {
+        "displayName": "🌪Dashie010203🌪",
+        "steamID": 76561198093826520
+      },
+      "time": 111450
+    },
+    {
+      "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 111540
+    },
+    {
+      "player": {
+        "displayName": "Taggart",
+        "steamID": 76561197970765040
+      },
+      "time": 111580
+    },
+    {
+      "player": {
+        "displayName": "Aquadoff",
+        "steamID": 76561198053342129
+      },
+      "time": 111720
+    },
+    {
+      "player": {
+        "displayName": "Draco Solis",
+        "steamID": 76561198262740790
+      },
+      "time": 111800
+    },
+    {
+      "player": {
+        "displayName": "Nivyee",
+        "steamID": 76561198055036176
+      },
+      "time": 112010
+    },
+    {
+      "player": {
+        "displayName": "Ark",
+        "steamID": 76561198117452750
+      },
+      "time": 112030
+    },
+    {
+      "player": {
+        "displayName": "Checkpoint",
+        "steamID": 76561198064191395
+      },
+      "time": 112380
+    },
+    {
+      "player": {
+        "displayName": "ターノC",
+        "steamID": 76561198174287494
+      },
+      "time": 112570
+    },
+    {
+      "player": {
+        "displayName": "Raster Dreams",
+        "steamID": 76561198044037568
+      },
+      "time": 112610
+    },
+    {
+      "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 112680
+    },
+    {
+      "player": {
+        "displayName": "Attentive Amblypygid",
+        "steamID": 76561198048455224
+      },
+      "time": 112850
+    },
+    {
+      "player": {
+        "displayName": "kriz_chan",
+        "steamID": 76561197985424000
+      },
+      "time": 112870
+    },
+    {
+      "player": {
+        "displayName": "carcrasher003",
+        "steamID": 76561198373558412
+      },
+      "time": 113020
+    },
+    {
+      "player": {
+        "displayName": "SG-58",
+        "steamID": 76561198041276435
+      },
+      "time": 113190
+    },
+    {
+      "player": {
+        "displayName": "ACG | Undercover Mae",
+        "steamID": 76561198084527063
+      },
+      "time": 113200
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 113220
+    },
+    {
+      "player": {
+        "displayName": "Makoto Naegi",
+        "steamID": 76561198043610128
+      },
+      "time": 113270
+    },
+    {
+      "player": {
+        "displayName": "Trumpeteer146",
+        "steamID": 76561198068797128
+      },
+      "time": 113910
+    },
+    {
+      "player": {
+        "displayName": "Corecii",
+        "steamID": 76561198040634464
+      },
+      "time": 113920
+    },
+    {
+      "player": {
+        "displayName": "Davonavik",
+        "steamID": 76561198116936448
+      },
+      "time": 113990
+    },
+    {
+      "player": {
+        "displayName": "shen",
+        "steamID": 76561198127206065
+      },
+      "time": 114010
+    },
+    {
+      "player": {
+        "displayName": "Neoblastz",
+        "steamID": 76561198114721305
+      },
+      "time": 114080
+    },
+    {
+      "player": {
+        "displayName": "Swayo",
+        "steamID": 76561198097106779
+      },
+      "time": 114260
+    },
+    {
+      "player": {
+        "displayName": "Noer Limero",
+        "steamID": 76561198076672699
+      },
+      "time": 114270
+    },
+    {
+      "player": {
+        "displayName": "Zero Kelvin",
+        "steamID": 76561198112552497
+      },
+      "time": 114410
+    },
+    {
+      "player": {
+        "displayName": "jay",
+        "steamID": 76561198089234092
+      },
+      "time": 114570
+    },
+    {
+      "player": {
+        "displayName": "Sgt_Snowcone",
+        "steamID": 76561198162528268
+      },
+      "time": 114580
+    },
+    {
+      "player": {
+        "displayName": "dare",
+        "steamID": 76561198067250219
+      },
+      "time": 114630
+    },
+    {
+      "player": {
+        "displayName": "Lotus | Mrinohk",
+        "steamID": 76561198045276993
+      },
+      "time": 114720
+    },
+    {
+      "player": {
+        "displayName": "wit",
+        "steamID": 76561198047147439
+      },
+      "time": 114720
+    },
+    {
+      "player": {
+        "displayName": "Agent-Cryspy",
+        "steamID": 76561198075615063
+      },
+      "time": 114740
+    },
+    {
+      "player": {
+        "displayName": "savage",
+        "steamID": 76561198208415341
+      },
+      "time": 114840
+    },
+    {
+      "player": {
+        "displayName": "gingerette95",
+        "steamID": 76561198068938808
+      },
+      "time": 114890
+    },
+    {
+      "player": {
+        "displayName": "Danihell",
+        "steamID": 76561198108893925
+      },
+      "time": 114900
+    },
+    {
+      "player": {
+        "displayName": "i0nTempest",
+        "steamID": 76561198244554216
+      },
+      "time": 115160
+    },
+    {
+      "player": {
+        "displayName": "nSword0",
+        "steamID": 76561198066161588
+      },
+      "time": 115290
+    },
+    {
+      "player": {
+        "displayName": "Chrimbous",
+        "steamID": 76561198016951697
+      },
+      "time": 115330
+    },
+    {
+      "player": {
+        "displayName": "A Moldy Orange",
+        "steamID": 76561198323388471
+      },
+      "time": 115470
+    },
+    {
+      "player": {
+        "displayName": "SandGator17",
+        "steamID": 76561198170039661
+      },
+      "time": 115530
+    },
+    {
+      "player": {
+        "displayName": "Master Wonder Mage",
+        "steamID": 76561198073074927
+      },
+      "time": 115630
+    },
+    {
+      "player": {
+        "displayName": "Dr. Tiefling",
+        "steamID": 76561198133366041
+      },
+      "time": 115860
+    },
+    {
+      "player": {
+        "displayName": "血小板",
+        "steamID": 76561198123626406
+      },
+      "time": 115920
+    },
+    {
+      "player": {
+        "displayName": "[d]raex",
+        "steamID": 76561198074160757
+      },
+      "time": 116020
+    },
+    {
+      "player": {
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 116150
+    },
+    {
+      "player": {
+        "displayName": "[xG] King Cory",
+        "steamID": 76561198066259901
+      },
+      "time": 116320
+    },
+    {
+      "player": {
+        "displayName": "TheInvisible",
+        "steamID": 76561198077317329
+      },
+      "time": 116510
+    },
+    {
+      "player": {
+        "displayName": "Gears of Harmony",
+        "steamID": 76561198172710357
+      },
+      "time": 116550
+    },
+    {
+      "player": {
+        "displayName": "DefenderOfHyrule",
+        "steamID": 76561198144159516
+      },
+      "time": 116630
+    },
+    {
+      "player": {
+        "displayName": "DigitalySane",
+        "steamID": 76561197997411639
+      },
+      "time": 116640
+    },
+    {
+      "player": {
+        "displayName": "Dragogan(o)",
+        "steamID": 76561198086372128
+      },
+      "time": 116770
+    },
+    {
+      "player": {
+        "displayName": "BertFe",
+        "steamID": 76561198402297067
+      },
+      "time": 116780
+    },
+    {
+      "player": {
+        "displayName": "Zephyr The Racer",
+        "steamID": 76561198091653993
+      },
+      "time": 116790
+    },
+    {
+      "player": {
+        "displayName": "The Expert",
+        "steamID": 76561198119060261
+      },
+      "time": 117100
+    },
+    {
+      "player": {
+        "displayName": "Lilobonew",
+        "steamID": 76561198045571417
+      },
+      "time": 117170
+    },
+    {
+      "player": {
+        "displayName": "DarthSpaceLord",
+        "steamID": 76561198806765324
+      },
+      "time": 117290
+    },
+    {
+      "player": {
+        "displayName": "Krispy",
+        "steamID": 76561197994102448
+      },
+      "time": 117680
+    },
+    {
+      "player": {
+        "displayName": "birch",
+        "steamID": 76561198263582601
+      },
+      "time": 117710
+    },
+    {
+      "player": {
+        "displayName": "matilt",
+        "steamID": 76561198174813282
+      },
+      "time": 117720
+    },
+    {
+      "player": {
+        "displayName": "Fish Jesus",
+        "steamID": 76561198176408447
+      },
+      "time": 117840
+    },
+    {
+      "player": {
+        "displayName": "egfdagger2000",
+        "steamID": 76561198396873595
+      },
+      "time": 117840
+    },
+    {
+      "player": {
+        "displayName": "rubens9345",
+        "steamID": 76561198087747088
+      },
+      "time": 117920
+    },
+    {
+      "player": {
+        "displayName": "skankhunt42",
+        "steamID": 76561198160788963
+      },
+      "time": 118020
+    },
+    {
+      "player": {
+        "displayName": "SHiNOXXLE",
+        "steamID": 76561198015129182
+      },
+      "time": 118210
+    },
+    {
+      "player": {
+        "displayName": "Hearth",
+        "steamID": 76561198026118166
+      },
+      "time": 118580
+    },
+    {
+      "player": {
+        "displayName": "Redguard89rus",
+        "steamID": 76561198016306144
+      },
+      "time": 118670
+    },
+    {
+      "player": {
+        "displayName": "Plasmawario",
+        "steamID": 76561198023443979
+      },
+      "time": 119110
+    },
+    {
+      "player": {
+        "displayName": "Zaclov",
+        "steamID": 76561198203019170
+      },
+      "time": 119110
+    },
+    {
+      "player": {
+        "displayName": "guest35",
+        "steamID": 76561198089106562
+      },
+      "time": 119300
+    },
+    {
+      "player": {
+        "displayName": "Latapi",
+        "steamID": 76561198071239933
+      },
+      "time": 119430
+    },
+    {
+      "player": {
+        "displayName": "Ачиро",
+        "steamID": 76561198156791459
+      },
+      "time": 119430
+    },
+    {
+      "player": {
+        "displayName": "Traplover",
+        "steamID": 76561198001043815
+      },
+      "time": 119800
+    },
+    {
+      "player": {
+        "displayName": "concil",
+        "steamID": 76561198121692733
+      },
+      "time": 119860
+    },
+    {
+      "player": {
+        "displayName": "M500",
+        "steamID": 76561197998363138
+      },
+      "time": 119970
+    },
+    {
+      "player": {
+        "displayName": "Mr.Derp",
+        "steamID": 76561198061935744
+      },
+      "time": 119970
+    },
+    {
+      "player": {
+        "displayName": "Psychopomp",
+        "steamID": 76561198048725882
+      },
+      "time": 119990
+    },
+    {
+      "player": {
+        "displayName": "[Æ] Malikil",
+        "steamID": 76561198017843777
+      },
+      "time": 120150
+    },
+    {
+      "player": {
+        "displayName": "Pandz",
+        "steamID": 76561198134629537
+      },
+      "time": 120720
+    },
+    {
+      "player": {
+        "displayName": "Zerith",
+        "steamID": 76561198171093213
+      },
+      "time": 121150
+    },
+    {
+      "player": {
+        "displayName": "Photyx",
+        "steamID": 76561198029547933
+      },
+      "time": 121250
+    },
+    {
+      "player": {
+        "displayName": "Sargeras Soggyass",
+        "steamID": 76561198031146606
+      },
+      "time": 121550
+    },
+    {
+      "player": {
+        "displayName": "Dreigo",
+        "steamID": 76561198213581353
+      },
+      "time": 121580
+    },
+    {
+      "player": {
+        "displayName": "CommanderC2121",
+        "steamID": 76561198127873357
+      },
+      "time": 121640
+    },
+    {
+      "player": {
+        "displayName": "KMills",
+        "steamID": 76561197997935034
+      },
+      "time": 121850
+    },
+    {
+      "player": {
+        "displayName": "One Man Moon Band",
+        "steamID": 76561198066236669
+      },
+      "time": 121880
+    },
+    {
+      "player": {
+        "displayName": "Tech0verlord",
+        "steamID": 76561198041899195
+      },
+      "time": 121900
+    },
+    {
+      "player": {
+        "displayName": "Jak",
+        "steamID": 76561198010513759
+      },
+      "time": 121920
+    },
+    {
+      "player": {
+        "displayName": "stalememes",
+        "steamID": 76561198022190329
+      },
+      "time": 122200
+    },
+    {
+      "player": {
+        "displayName": "SilverMango",
+        "steamID": 76561198091243252
+      },
+      "time": 122350
+    },
+    {
+      "player": {
+        "displayName": "Ramirez",
+        "steamID": 76561197993727370
+      },
+      "time": 122620
+    },
+    {
+      "player": {
+        "displayName": "MrMii",
+        "steamID": 76561198065540876
+      },
+      "time": 122750
+    },
+    {
+      "player": {
+        "displayName": "Malis",
+        "steamID": 76561198027361912
+      },
+      "time": 122820
+    },
+    {
+      "player": {
+        "displayName": "MCrekna",
+        "steamID": 76561198117876048
+      },
+      "time": 122830
+    },
+    {
+      "player": {
+        "displayName": "E0N",
+        "steamID": 76561198139815712
+      },
+      "time": 122870
+    },
+    {
+      "player": {
+        "displayName": "Earth-Chan",
+        "steamID": 76561198061447458
+      },
+      "time": 122950
+    },
+    {
+      "player": {
+        "displayName": "DarkViper609",
+        "steamID": 76561198110035070
+      },
+      "time": 123340
+    },
+    {
+      "player": {
+        "displayName": "hunterakagman",
+        "steamID": 76561198159395521
+      },
+      "time": 123350
+    },
+    {
+      "player": {
+        "displayName": "kbbetournay",
+        "steamID": 76561198110000018
+      },
+      "time": 123490
+    },
+    {
+      "player": {
+        "displayName": "Dr.Madness",
+        "steamID": 76561198030770673
+      },
+      "time": 123600
+    },
+    {
+      "player": {
+        "displayName": "Ebeta2",
+        "steamID": 76561198115062935
+      },
+      "time": 123700
+    },
+    {
+      "player": {
+        "displayName": "Berry Brews",
+        "steamID": 76561198078750116
+      },
+      "time": 123740
+    },
+    {
+      "player": {
+        "displayName": "giraffes",
+        "steamID": 76561198043862659
+      },
+      "time": 123900
+    },
+    {
+      "player": {
+        "displayName": "glacial",
+        "steamID": 76561198158990613
+      },
+      "time": 124080
+    },
+    {
+      "player": {
+        "displayName": "Frindle Babbin",
+        "steamID": 76561198028693995
+      },
+      "time": 124400
+    },
+    {
+      "player": {
+        "displayName": "TENEBRlS",
+        "steamID": 76561198077441982
+      },
+      "time": 124530
+    },
+    {
+      "player": {
+        "displayName": "airmence",
+        "steamID": 76561198211819357
+      },
+      "time": 124620
+    },
+    {
+      "player": {
+        "displayName": "Null",
+        "steamID": 76561198043040934
+      },
+      "time": 124720
+    },
+    {
+      "player": {
+        "displayName": "[WuTangle] Taddy",
+        "steamID": 76561197983628901
+      },
+      "time": 124760
+    },
+    {
+      "player": {
+        "displayName": "Vœlundr",
+        "steamID": 76561198016102114
+      },
+      "time": 124840
+    },
+    {
+      "player": {
+        "displayName": "Feed The Fishes",
+        "steamID": 76561198030077409
+      },
+      "time": 124950
+    },
+    {
+      "player": {
+        "displayName": "Mehrio",
+        "steamID": 76561198153664873
+      },
+      "time": 125030
+    },
+    {
+      "player": {
+        "displayName": "Cozy Grandpa",
+        "steamID": 76561198052082623
+      },
+      "time": 125040
+    },
+    {
+      "player": {
+        "displayName": "littlewoodworm",
+        "steamID": 76561198266981021
+      },
+      "time": 125210
+    },
+    {
+      "player": {
+        "displayName": "DealingWithGaming",
+        "steamID": 76561198288766923
+      },
+      "time": 125210
+    },
+    {
+      "player": {
+        "displayName": "chocobogamer",
+        "steamID": 76561198124871358
+      },
+      "time": 125260
+    },
+    {
+      "player": {
+        "displayName": "Triazo",
+        "steamID": 76561198000691754
+      },
+      "time": 125400
+    },
+    {
+      "player": {
+        "displayName": "Sayrix",
+        "steamID": 76561198074026903
+      },
+      "time": 125450
+    },
+    {
+      "player": {
+        "displayName": "speedgurke",
+        "steamID": 76561198209989299
+      },
+      "time": 125540
+    },
+    {
+      "player": {
+        "displayName": "The NSA Agent",
+        "steamID": 76561198174743639
+      },
+      "time": 125670
+    },
+    {
+      "player": {
+        "displayName": "クレイジー",
+        "steamID": 76561198026020266
+      },
+      "time": 125950
+    },
+    {
+      "player": {
+        "displayName": "ReiGuy",
+        "steamID": 76561198080458081
+      },
+      "time": 126000
+    },
+    {
+      "player": {
+        "displayName": "Ʊﾐ WiteNite",
+        "steamID": 76561198110029618
+      },
+      "time": 126050
+    },
+    {
+      "player": {
+        "displayName": "Pardalote",
+        "steamID": 76561198031910073
+      },
+      "time": 126130
+    },
+    {
+      "player": {
+        "displayName": "Alexander Mirkov",
+        "steamID": 76561198319796246
+      },
+      "time": 126760
+    },
+    {
+      "player": {
+        "displayName": "Keiyo",
+        "steamID": 76561197990057420
+      },
+      "time": 126880
+    },
+    {
+      "player": {
+        "displayName": "TenTo",
+        "steamID": 76561198001947706
+      },
+      "time": 126960
+    },
+    {
+      "player": {
+        "displayName": "meepster3000",
+        "steamID": 76561198062511348
+      },
+      "time": 126990
+    },
+    {
+      "player": {
+        "displayName": "Worldbox",
+        "steamID": 76561198026337180
+      },
+      "time": 127000
+    },
+    {
+      "player": {
+        "displayName": "N-Jin",
+        "steamID": 76561198085054630
+      },
+      "time": 127050
+    },
+    {
+      "player": {
+        "displayName": "FuriousFragger",
+        "steamID": 76561198046270481
+      },
+      "time": 127220
+    },
+    {
+      "player": {
+        "displayName": "Dimitri",
+        "steamID": 76561197998874249
+      },
+      "time": 127280
+    },
+    {
+      "player": {
+        "displayName": "The Ghostly Pyro",
+        "steamID": 76561198035598263
+      },
+      "time": 127470
+    },
+    {
+      "player": {
+        "displayName": "Motaki",
+        "steamID": 76561198064082188
+      },
+      "time": 127560
+    },
+    {
+      "player": {
+        "displayName": "MisterDonWea",
+        "steamID": 76561198131992298
+      },
+      "time": 127600
+    },
+    {
+      "player": {
+        "displayName": "hdfrkal",
+        "steamID": 76561198346965986
+      },
+      "time": 127600
+    },
+    {
+      "player": {
+        "displayName": "Sayy3000",
+        "steamID": 76561198212723245
+      },
+      "time": 127800
+    },
+    {
+      "player": {
+        "displayName": "Phantom Hoover",
+        "steamID": 76561198025168700
+      },
+      "time": 127960
+    },
+    {
+      "player": {
+        "displayName": "Earthnuker",
+        "steamID": 76561197993507212
+      },
+      "time": 127970
+    },
+    {
+      "player": {
+        "displayName": "Reynart",
+        "steamID": 76561198007027772
+      },
+      "time": 128210
+    },
+    {
+      "player": {
+        "displayName": "SKELETOR",
+        "steamID": 76561198074608751
+      },
+      "time": 128270
+    },
+    {
+      "player": {
+        "displayName": "knurrT",
+        "steamID": 76561198011462876
+      },
+      "time": 128650
+    },
+    {
+      "player": {
+        "displayName": "FederationThunderbolt",
+        "steamID": 76561198076329329
+      },
+      "time": 128690
+    },
+    {
+      "player": {
+        "displayName": "yungcashregisterAKAlilbroomstick",
+        "steamID": 76561198407889105
+      },
+      "time": 128880
+    },
+    {
+      "player": {
+        "displayName": "lefor0416",
+        "steamID": 76561198025350851
+      },
+      "time": 129030
+    },
+    {
+      "player": {
+        "displayName": "THE_PINHEAD",
+        "steamID": 76561198043062870
+      },
+      "time": 129430
+    },
+    {
+      "player": {
+        "displayName": "ShanRoxAlot",
+        "steamID": 76561198040874599
+      },
+      "time": 129530
+    },
+    {
+      "player": {
+        "displayName": "ReKxus",
+        "steamID": 76561198185198955
+      },
+      "time": 129670
+    },
+    {
+      "player": {
+        "displayName": "Splatt3rPunk^-^",
+        "steamID": 76561198123329614
+      },
+      "time": 129930
+    },
+    {
+      "player": {
+        "displayName": "mote ✨",
+        "steamID": 76561198052351360
+      },
+      "time": 130100
+    },
+    {
+      "player": {
+        "displayName": "A4 | Jeramie",
+        "steamID": 76561198041129304
+      },
+      "time": 130120
+    },
+    {
+      "player": {
+        "displayName": "Nyx The Nargacuga",
+        "steamID": 76561198194656802
+      },
+      "time": 130190
+    },
+    {
+      "player": {
+        "displayName": "Tuffilaro",
+        "steamID": 76561198048722668
+      },
+      "time": 130450
+    },
+    {
+      "player": {
+        "displayName": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "steamID": 76561198047421088
+      },
+      "time": 130780
+    },
+    {
+      "player": {
+        "displayName": "shadow10342",
+        "steamID": 76561198164304424
+      },
+      "time": 131110
+    },
+    {
+      "player": {
+        "displayName": "darthbob555",
+        "steamID": 76561198272505681
+      },
+      "time": 131150
+    },
+    {
+      "player": {
+        "displayName": "Aru",
+        "steamID": 76561198128472754
+      },
+      "time": 131430
+    },
+    {
+      "player": {
+        "displayName": "Blakcbird",
+        "steamID": 76561198078169062
+      },
+      "time": 131520
+    },
+    {
+      "player": {
+        "displayName": "437NigerianPrince@gmail.com",
+        "steamID": 76561198073377190
+      },
+      "time": 131970
+    },
+    {
+      "player": {
+        "displayName": "Pfirsichgelee",
+        "steamID": 76561198066288298
+      },
+      "time": 132110
+    },
+    {
+      "player": {
+        "displayName": "Whaffles",
+        "steamID": 76561198040821693
+      },
+      "time": 132260
+    },
+    {
+      "player": {
+        "displayName": "Rii ♡",
+        "steamID": 76561198039734715
+      },
+      "time": 132320
+    },
+    {
+      "player": {
+        "displayName": "[6-4] OrthodoxStoner",
+        "steamID": 76561198111604624
+      },
+      "time": 132440
+    },
+    {
+      "player": {
+        "displayName": "Skafloodle",
+        "steamID": 76561198050560606
+      },
+      "time": 132470
+    },
+    {
+      "player": {
+        "displayName": "Ashton_bro",
+        "steamID": 76561198129195427
+      },
+      "time": 132540
+    },
+    {
+      "player": {
+        "displayName": "Ironman_2099",
+        "steamID": 76561198196749522
+      },
+      "time": 132750
+    },
+    {
+      "player": {
+        "displayName": "Strafe",
+        "steamID": 76561198005734428
+      },
+      "time": 133050
+    },
+    {
+      "player": {
+        "displayName": "G9",
+        "steamID": 76561197974733660
+      },
+      "time": 133420
+    },
+    {
+      "player": {
+        "displayName": "Impatotec",
+        "steamID": 76561198021390959
+      },
+      "time": 133430
+    },
+    {
+      "player": {
+        "displayName": "frikandelbroodje",
+        "steamID": 76561198117438413
+      },
+      "time": 133570
+    },
+    {
+      "player": {
+        "displayName": "Hollowback™",
+        "steamID": 76561198046839644
+      },
+      "time": 133580
+    },
+    {
+      "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 133700
+    },
+    {
+      "player": {
+        "displayName": "Meowt",
+        "steamID": 76561198079994020
+      },
+      "time": 133820
+    },
+    {
+      "player": {
+        "displayName": "TDTUltra",
+        "steamID": 76561198200066813
+      },
+      "time": 133920
+    },
+    {
+      "player": {
+        "displayName": "Dog Arms",
+        "steamID": 76561198021567209
+      },
+      "time": 133940
+    },
+    {
+      "player": {
+        "displayName": "Crazed Butt-Cuddler",
+        "steamID": 76561198061641347
+      },
+      "time": 134180
+    },
+    {
+      "player": {
+        "displayName": "khrisround2",
+        "steamID": 76561198057865303
+      },
+      "time": 134250
+    },
+    {
+      "player": {
+        "displayName": "gerald",
+        "steamID": 76561198135613866
+      },
+      "time": 134260
+    },
+    {
+      "player": {
+        "displayName": "bigboi",
+        "steamID": 76561198146145322
+      },
+      "time": 134330
+    },
+    {
+      "player": {
+        "displayName": "KWG Lamb",
+        "steamID": 76561198118549893
+      },
+      "time": 134430
+    },
+    {
+      "player": {
+        "displayName": "Mini Dew",
+        "steamID": 76561198112331793
+      },
+      "time": 134450
+    },
+    {
+      "player": {
+        "displayName": "Professor Bobbingtons",
+        "steamID": 76561197971560445
+      },
+      "time": 134560
+    },
+    {
+      "player": {
+        "displayName": "blue42u",
+        "steamID": 76561198128622930
+      },
+      "time": 134560
+    },
+    {
+      "player": {
+        "displayName": "cas8002",
+        "steamID": 76561198000131887
+      },
+      "time": 134620
+    },
+    {
+      "player": {
+        "displayName": "theninjacat799",
+        "steamID": 76561198110843048
+      },
+      "time": 134640
+    },
+    {
+      "player": {
+        "displayName": "Knovil",
+        "steamID": 76561198292143291
+      },
+      "time": 134640
+    },
+    {
+      "player": {
+        "displayName": "Freak",
+        "steamID": 76561198071460213
+      },
+      "time": 134650
+    },
+    {
+      "player": {
+        "displayName": "Touch Fuzzy Get Dizzy",
+        "steamID": 76561198001344182
+      },
+      "time": 134690
+    },
+    {
+      "player": {
+        "displayName": "Yipp",
+        "steamID": 76561198067084640
+      },
+      "time": 134690
+    },
+    {
+      "player": {
+        "displayName": "Mako",
+        "steamID": 76561198038592481
+      },
+      "time": 134800
+    },
+    {
+      "player": {
+        "displayName": "Rantg",
+        "steamID": 76561198108921841
+      },
+      "time": 134820
+    },
+    {
+      "player": {
+        "displayName": "Wyxix",
+        "steamID": 76561198096598479
+      },
+      "time": 134880
+    },
+    {
+      "player": {
+        "displayName": "Biasum",
+        "steamID": 76561198127110139
+      },
+      "time": 134910
+    },
+    {
+      "player": {
+        "displayName": "Neck",
+        "steamID": 76561198171074430
+      },
+      "time": 134910
+    },
+    {
+      "player": {
+        "displayName": "[X] - Limitless Potential",
+        "steamID": 76561197974590477
+      },
+      "time": 135020
+    },
+    {
+      "player": {
+        "displayName": "𝒮𝒾𝓂𝑜𝓃𝐸𝓋𝑜",
+        "steamID": 76561198002456461
+      },
+      "time": 135040
+    },
+    {
+      "player": {
+        "displayName": "Leudic",
+        "steamID": 76561198016507269
+      },
+      "time": 135240
+    },
+    {
+      "player": {
+        "displayName": "Spontaneous",
+        "steamID": 76561198042001346
+      },
+      "time": 135280
+    },
+    {
+      "player": {
+        "displayName": "Hoebuh",
+        "steamID": 76561198002585649
+      },
+      "time": 135310
+    },
+    {
+      "player": {
+        "displayName": "Voq",
+        "steamID": 76561198046320484
+      },
+      "time": 135330
+    },
+    {
+      "player": {
+        "displayName": "SoUR",
+        "steamID": 76561198152247002
+      },
+      "time": 135460
+    },
+    {
+      "player": {
+        "displayName": "Quantumsquirrle213",
+        "steamID": 76561198055198994
+      },
+      "time": 135730
+    },
+    {
+      "player": {
+        "displayName": "TRUMP EST GEIL ,LIK ME MUUR",
+        "steamID": 76561198056417558
+      },
+      "time": 135810
+    },
+    {
+      "player": {
+        "displayName": "FluffmasterBubblegum",
+        "steamID": 76561197975283633
+      },
+      "time": 135830
+    },
+    {
+      "player": {
+        "displayName": "Samn",
+        "steamID": 76561198024374242
+      },
+      "time": 135910
+    },
+    {
+      "player": {
+        "displayName": "Su Mucheng",
+        "steamID": 76561198038852077
+      },
+      "time": 135990
+    },
+    {
+      "player": {
+        "displayName": "Xelathia",
+        "steamID": 76561198061863028
+      },
+      "time": 136130
+    },
+    {
+      "player": {
+        "displayName": "jeod007",
+        "steamID": 76561198034003650
+      },
+      "time": 136350
+    },
+    {
+      "player": {
+        "displayName": "Nepster",
+        "steamID": 76561198131103369
+      },
+      "time": 136570
+    },
+    {
+      "player": {
+        "displayName": "fjccastr1",
+        "steamID": 76561198131855872
+      },
+      "time": 136590
+    },
+    {
+      "player": {
+        "displayName": "Protagonist",
+        "steamID": 76561198075627683
+      },
+      "time": 136650
+    },
+    {
+      "player": {
+        "displayName": "JPC013-X",
+        "steamID": 76561198191398527
+      },
+      "time": 136720
+    },
+    {
+      "player": {
+        "displayName": "Irotas",
+        "steamID": 76561198014795166
+      },
+      "time": 136730
+    },
+    {
+      "player": {
+        "displayName": "gnss-",
+        "steamID": 76561198074014978
+      },
+      "time": 136740
+    },
+    {
+      "player": {
+        "displayName": "XtracK22",
+        "steamID": 76561198062843689
+      },
+      "time": 136760
+    },
+    {
+      "player": {
+        "displayName": "Banagher_",
+        "steamID": 76561198046396038
+      },
+      "time": 136770
+    },
+    {
+      "player": {
+        "displayName": "Danny696",
+        "steamID": 76561198011646032
+      },
+      "time": 136780
+    },
+    {
+      "player": {
+        "displayName": "Simspace1",
+        "steamID": 76561198023730987
+      },
+      "time": 137030
+    },
+    {
+      "player": {
+        "displayName": "Nokillings",
+        "steamID": 76561198065453484
+      },
+      "time": 137080
+    },
+    {
+      "player": {
+        "displayName": "Sundown",
+        "steamID": 76561198055406627
+      },
+      "time": 137170
+    },
+    {
+      "player": {
+        "displayName": "cheesymantisfondue",
+        "steamID": 76561198254756219
+      },
+      "time": 137210
+    },
+    {
+      "player": {
+        "displayName": "Lord Makuta",
+        "steamID": 76561197995277082
+      },
+      "time": 137460
+    },
+    {
+      "player": {
+        "displayName": "cybred",
+        "steamID": 76561198123820634
+      },
+      "time": 137480
+    },
+    {
+      "player": {
+        "displayName": "ZweiHawke",
+        "steamID": 76561198057854484
+      },
+      "time": 137530
+    },
+    {
+      "player": {
+        "displayName": "TheAustraliumGibus",
+        "steamID": 76561198095740293
+      },
+      "time": 137550
+    },
+    {
+      "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 137560
+    },
+    {
+      "player": {
+        "displayName": "Kaenbyou UN",
+        "steamID": 76561198049085934
+      },
+      "time": 137600
+    },
+    {
+      "player": {
+        "displayName": "Explogive",
+        "steamID": 76561198123068771
+      },
+      "time": 137750
+    },
+    {
+      "player": {
+        "displayName": "dan96kid",
+        "steamID": 76561198056585555
+      },
+      "time": 137810
+    },
+    {
+      "player": {
+        "displayName": "[SKO] SirWafel",
+        "steamID": 76561198172524610
+      },
+      "time": 137840
+    },
+    {
+      "player": {
+        "displayName": "sheepington11211",
+        "steamID": 76561198057071313
+      },
+      "time": 138020
+    },
+    {
+      "player": {
+        "displayName": "Sucker",
+        "steamID": 76561197992022148
+      },
+      "time": 138200
+    },
+    {
+      "player": {
+        "displayName": "kildert5",
+        "steamID": 76561198078526316
+      },
+      "time": 138350
+    },
+    {
+      "player": {
+        "displayName": "Draygone",
+        "steamID": 76561198005613857
+      },
+      "time": 138470
+    },
+    {
+      "player": {
+        "displayName": "TheMooseIsLoose",
+        "steamID": 76561198047957742
+      },
+      "time": 138580
+    },
+    {
+      "player": {
+        "displayName": "snowstate",
+        "steamID": 76561198112217007
+      },
+      "time": 138680
+    },
+    {
+      "player": {
+        "displayName": "ALE",
+        "steamID": 76561198309405140
+      },
+      "time": 138760
+    },
+    {
+      "player": {
+        "displayName": "Zarifi",
+        "steamID": 76561197994658692
+      },
+      "time": 138870
+    },
+    {
+      "player": {
+        "displayName": "Liarra Sniffles [Music]",
+        "steamID": 76561198017483501
+      },
+      "time": 138880
+    },
+    {
+      "player": {
+        "displayName": "MtryOutlander",
+        "steamID": 76561198041990815
+      },
+      "time": 138980
+    },
+    {
+      "player": {
+        "displayName": "TeeJaywave",
+        "steamID": 76561197998709490
+      },
+      "time": 139010
+    },
+    {
+      "player": {
+        "displayName": "Itrami Natopho",
+        "steamID": 76561198086140724
+      },
+      "time": 139060
+    },
+    {
+      "player": {
+        "displayName": "Mango",
+        "steamID": 76561198195855331
+      },
+      "time": 139270
+    },
+    {
+      "player": {
+        "displayName": "JonTigerBoy",
+        "steamID": 76561198080820689
+      },
+      "time": 139340
+    },
+    {
+      "player": {
+        "displayName": "CoffeeGremlin",
+        "steamID": 76561198046496747
+      },
+      "time": 139690
+    },
+    {
+      "player": {
+        "displayName": "Meda",
+        "steamID": 76561198090033583
+      },
+      "time": 139740
+    },
+    {
+      "player": {
+        "displayName": "Arikawa",
+        "steamID": 76561198045297045
+      },
+      "time": 139750
+    },
+    {
+      "player": {
+        "displayName": "Gheleon",
+        "steamID": 76561198165617729
+      },
+      "time": 139950
+    },
+    {
+      "player": {
+        "displayName": "Ben",
+        "steamID": 76561198178772869
+      },
+      "time": 140150
+    },
+    {
+      "player": {
+        "displayName": "Agoxandr",
+        "steamID": 76561197972049435
+      },
+      "time": 140180
+    },
+    {
+      "player": {
+        "displayName": "InfinityI3lade",
+        "steamID": 76561198029981749
+      },
+      "time": 140250
+    },
+    {
+      "player": {
+        "displayName": "LEX",
+        "steamID": 76561198127177378
+      },
+      "time": 140250
+    },
+    {
+      "player": {
+        "displayName": "DevilBullet",
+        "steamID": 76561198093791584
+      },
+      "time": 140280
+    },
+    {
+      "player": {
+        "displayName": "Stranth",
+        "steamID": 76561197991250430
+      },
+      "time": 140370
+    },
+    {
+      "player": {
+        "displayName": "Kaxn",
+        "steamID": 76561198114640535
+      },
+      "time": 140580
+    },
+    {
+      "player": {
+        "displayName": "Marwan Green Critter",
+        "steamID": 76561197992187331
+      },
+      "time": 140740
+    },
+    {
+      "player": {
+        "displayName": "portex",
+        "steamID": 76561198045540214
+      },
+      "time": 140750
+    },
+    {
+      "player": {
+        "displayName": "Dimitrilium",
+        "steamID": 76561198011974329
+      },
+      "time": 140790
+    },
+    {
+      "player": {
+        "displayName": "phimeek",
+        "steamID": 76561198002349397
+      },
+      "time": 141020
+    },
+    {
+      "player": {
+        "displayName": "Boo",
+        "steamID": 76561197995748377
+      },
+      "time": 141170
+    },
+    {
+      "player": {
+        "displayName": "GiantBlargg",
+        "steamID": 76561198088246011
+      },
+      "time": 141170
+    },
+    {
+      "player": {
+        "displayName": "Frozen Bl00d",
+        "steamID": 76561198086431327
+      },
+      "time": 141220
+    },
+    {
+      "player": {
+        "displayName": "Riley",
+        "steamID": 76561198090372870
+      },
+      "time": 141270
+    },
+    {
+      "player": {
+        "displayName": "Andrew Carnegie",
+        "steamID": 76561198124901379
+      },
+      "time": 141300
+    },
+    {
+      "player": {
+        "displayName": "EvolutionofL",
+        "steamID": 76561198040741935
+      },
+      "time": 141420
+    },
+    {
+      "player": {
+        "displayName": "RATE",
+        "steamID": 76561198079221187
+      },
+      "time": 141440
+    },
+    {
+      "player": {
+        "displayName": "Defiance_LLK",
+        "steamID": 76561198043915016
+      },
+      "time": 141490
+    },
+    {
+      "player": {
+        "displayName": "Doodle",
+        "steamID": 76561197999434894
+      },
+      "time": 141530
+    },
+    {
+      "player": {
+        "displayName": "SILKKY",
+        "steamID": 76561198109506735
+      },
+      "time": 141620
+    },
+    {
+      "player": {
+        "displayName": "QuasarSevilla",
+        "steamID": 76561198070405731
+      },
+      "time": 141800
+    },
+    {
+      "player": {
+        "displayName": "SteveMustBeOtaku",
+        "steamID": 76561198037961677
+      },
+      "time": 141810
+    },
+    {
+      "player": {
+        "displayName": "Beastrolami",
+        "steamID": 76561198062630928
+      },
+      "time": 141810
+    },
+    {
+      "player": {
+        "displayName": "FЯΞΥRᶠᵘʳʸ",
+        "steamID": 76561198060564892
+      },
+      "time": 141930
+    },
+    {
+      "player": {
+        "displayName": "swash",
+        "steamID": 76561198054339169
+      },
+      "time": 142030
+    },
+    {
+      "player": {
+        "displayName": "Drarrk",
+        "steamID": 76561198019103907
+      },
+      "time": 142070
+    },
+    {
+      "player": {
+        "displayName": "Captain Canuck",
+        "steamID": 76561198069910409
+      },
+      "time": 142440
+    },
+    {
+      "player": {
+        "displayName": "Dreamking",
+        "steamID": 76561198099333297
+      },
+      "time": 142600
+    },
+    {
+      "player": {
+        "displayName": "Vizo",
+        "steamID": 76561198042005943
+      },
+      "time": 142640
+    },
+    {
+      "player": {
+        "displayName": "[16Bit]-WarpWire-[Fx]",
+        "steamID": 76561198001605675
+      },
+      "time": 142660
+    },
+    {
+      "player": {
+        "displayName": "Dislin",
+        "steamID": 76561197997578044
+      },
+      "time": 142700
+    },
+    {
+      "player": {
+        "displayName": "vorador2",
+        "steamID": 76561197994148936
+      },
+      "time": 142760
+    },
+    {
+      "player": {
+        "displayName": "Ace Balthazar",
+        "steamID": 76561198205691984
+      },
+      "time": 142780
+    },
+    {
+      "player": {
+        "displayName": "Ivan \"Shinji\" Karamazov",
+        "steamID": 76561198034242557
+      },
+      "time": 143010
+    },
+    {
+      "player": {
+        "displayName": "Senor Chuckles",
+        "steamID": 76561198189426659
+      },
+      "time": 143150
+    },
+    {
+      "player": {
+        "displayName": "Lucki",
+        "steamID": 76561198002794497
+      },
+      "time": 143360
+    },
+    {
+      "player": {
+        "displayName": "Lance",
+        "steamID": 76561198125137732
+      },
+      "time": 143530
+    },
+    {
+      "player": {
+        "displayName": "gorilae",
+        "steamID": 76561198112010244
+      },
+      "time": 143580
+    },
+    {
+      "player": {
+        "displayName": "The_Infinite_Monkey",
+        "steamID": 76561198045151843
+      },
+      "time": 143870
+    },
+    {
+      "player": {
+        "displayName": "Theboamba",
+        "steamID": 76561198105563833
+      },
+      "time": 143910
+    },
+    {
+      "player": {
+        "displayName": "J Godd",
+        "steamID": 76561198047296477
+      },
+      "time": 144010
+    },
+    {
+      "player": {
+        "displayName": "ValkyriOS got Nepped",
+        "steamID": 76561198220215972
+      },
+      "time": 144070
+    },
+    {
+      "player": {
+        "displayName": "Danger Sloth",
+        "steamID": 76561198046649575
+      },
+      "time": 144110
+    },
+    {
+      "player": {
+        "displayName": "FluffyTheZombie",
+        "steamID": 76561198134309424
+      },
+      "time": 144270
+    },
+    {
+      "player": {
+        "displayName": "SilentFrame",
+        "steamID": 76561198077998205
+      },
+      "time": 144690
+    },
+    {
+      "player": {
+        "displayName": "Nova",
+        "steamID": 76561198073633705
+      },
+      "time": 144810
+    },
+    {
+      "player": {
+        "displayName": "Plasmos",
+        "steamID": 76561198105875160
+      },
+      "time": 144850
+    },
+    {
+      "player": {
+        "displayName": "Shinrararara",
+        "steamID": 76561198024525896
+      },
+      "time": 144890
+    },
+    {
+      "player": {
+        "displayName": "Hashtag-Underscore",
+        "steamID": 76561198039811333
+      },
+      "time": 144980
+    },
+    {
+      "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 145070
+    },
+    {
+      "player": {
+        "displayName": "Jkei",
+        "steamID": 76561198020718540
+      },
+      "time": 145200
+    },
+    {
+      "player": {
+        "displayName": "Der heilige Backfish",
+        "steamID": 76561198257674072
+      },
+      "time": 145440
+    },
+    {
+      "player": {
+        "displayName": "Treefinder the Treeminder",
+        "steamID": 76561198109514737
+      },
+      "time": 145710
+    },
+    {
+      "player": {
+        "displayName": "AK Tankmaster",
+        "steamID": 76561198056505585
+      },
+      "time": 145890
+    },
+    {
+      "player": {
+        "displayName": "Ether116",
+        "steamID": 76561198003682306
+      },
+      "time": 146020
+    },
+    {
+      "player": {
+        "displayName": "aiko",
+        "steamID": 76561198181401557
+      },
+      "time": 146310
+    },
+    {
+      "player": {
+        "displayName": "A Really Fast Baby Seal",
+        "steamID": 76561198026087935
+      },
+      "time": 146370
+    },
+    {
+      "player": {
+        "displayName": "Dmitry",
+        "steamID": 76561198000235588
+      },
+      "time": 146490
+    },
+    {
+      "player": {
+        "displayName": "valdesko",
+        "steamID": 76561198019791623
+      },
+      "time": 146620
+    },
+    {
+      "player": {
+        "displayName": "SPEEDYSPEEDBOI",
+        "steamID": 76561198834350321
+      },
+      "time": 146670
+    },
+    {
+      "player": {
+        "displayName": "Dark_ION57_вук",
+        "steamID": 76561198025480120
+      },
+      "time": 146820
+    },
+    {
+      "player": {
+        "displayName": "twomanynumbers",
+        "steamID": 76561198026818665
+      },
+      "time": 146820
+    },
+    {
+      "player": {
+        "displayName": "rooroo277",
+        "steamID": 76561198000492417
+      },
+      "time": 146860
+    },
+    {
+      "player": {
+        "displayName": "Hell Hound",
+        "steamID": 76561198015655752
+      },
+      "time": 146860
+    },
+    {
+      "player": {
+        "displayName": "Skirmisher",
+        "steamID": 76561198065143430
+      },
+      "time": 147150
+    },
+    {
+      "player": {
+        "displayName": "Vdragon",
+        "steamID": 76561198029296795
+      },
+      "time": 147170
+    },
+    {
+      "player": {
+        "displayName": "how do i get lumber",
+        "steamID": 76561198074083371
+      },
+      "time": 147300
+    },
+    {
+      "player": {
+        "displayName": "HeroicShadow",
+        "steamID": 76561198166879556
+      },
+      "time": 147560
+    },
+    {
+      "player": {
+        "displayName": "BlackSnow",
+        "steamID": 76561198143102999
+      },
+      "time": 147570
+    },
+    {
+      "player": {
+        "displayName": "Shazbot",
+        "steamID": 76561198054194320
+      },
+      "time": 147730
+    },
+    {
+      "player": {
+        "displayName": "CaptFluffie",
+        "steamID": 76561198070676354
+      },
+      "time": 147740
+    },
+    {
+      "player": {
+        "displayName": "gamma",
+        "steamID": 76561198035133380
+      },
+      "time": 147820
+    },
+    {
+      "player": {
+        "displayName": "Roboraser",
+        "steamID": 76561198249708546
+      },
+      "time": 147880
+    },
+    {
+      "player": {
+        "displayName": "VanTec",
+        "steamID": 76561198116090072
+      },
+      "time": 147910
+    },
+    {
+      "player": {
+        "displayName": "Wedel26",
+        "steamID": 76561198367418246
+      },
+      "time": 147980
+    },
+    {
+      "player": {
+        "displayName": "Keyboard Grape",
+        "steamID": 76561198161699037
+      },
+      "time": 148000
+    },
+    {
+      "player": {
+        "displayName": "Nitrium",
+        "steamID": 76561198090472514
+      },
+      "time": 148090
+    },
+    {
+      "player": {
+        "displayName": "pinesolofchaos",
+        "steamID": 76561198058662064
+      },
+      "time": 148230
+    },
+    {
+      "player": {
+        "displayName": "Sylphe",
+        "steamID": 76561198343710741
+      },
+      "time": 148640
+    },
+    {
+      "player": {
+        "displayName": "Poltergeist",
+        "steamID": 76561198112540740
+      },
+      "time": 148680
+    },
+    {
+      "player": {
+        "displayName": "Nickachew",
+        "steamID": 76561198121179882
+      },
+      "time": 148740
+    },
+    {
+      "player": {
+        "displayName": "Alt",
+        "steamID": 76561197970904868
+      },
+      "time": 148800
+    },
+    {
+      "player": {
+        "displayName": "Frayboy15",
+        "steamID": 76561198081122651
+      },
+      "time": 148960
+    },
+    {
+      "player": {
+        "displayName": "Iced Lemon",
+        "steamID": 76561198287486690
+      },
+      "time": 149020
+    },
+    {
+      "player": {
+        "displayName": "Antiglow",
+        "steamID": 76561198094835423
+      },
+      "time": 149150
+    },
+    {
+      "player": {
+        "displayName": "Super Pixle Man",
+        "steamID": 76561198155959518
+      },
+      "time": 149350
+    },
+    {
+      "player": {
+        "displayName": "PPPaul",
+        "steamID": 76561198023567939
+      },
+      "time": 149580
+    },
+    {
+      "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 149790
+    },
+    {
+      "player": {
+        "displayName": "Raze Silverwing",
+        "steamID": 76561198390749737
+      },
+      "time": 150060
+    },
+    {
+      "player": {
+        "displayName": "cfr34k",
+        "steamID": 76561198025327701
+      },
+      "time": 150080
+    },
+    {
+      "player": {
+        "displayName": "-Ω-",
+        "steamID": 76561198065040574
+      },
+      "time": 150090
+    },
+    {
+      "player": {
+        "displayName": "endertrot",
+        "steamID": 76561198128542457
+      },
+      "time": 150200
+    },
+    {
+      "player": {
+        "displayName": "FluxPrototype46",
+        "steamID": 76561198119360746
+      },
+      "time": 150240
+    },
+    {
+      "player": {
+        "displayName": "Raynland McNuggets",
+        "steamID": 76561198049258758
+      },
+      "time": 150300
+    },
+    {
+      "player": {
+        "displayName": "Bear Lord",
+        "steamID": 76561198131181392
+      },
+      "time": 150300
+    },
+    {
+      "player": {
+        "displayName": "SpiritKinq",
+        "steamID": 76561198095909016
+      },
+      "time": 150370
+    },
+    {
+      "player": {
+        "displayName": "Uncle Medagucci gucci goo",
+        "steamID": 76561198014599089
+      },
+      "time": 150460
+    },
+    {
+      "player": {
+        "displayName": "OmniBaneSolid",
+        "steamID": 76561198097714525
+      },
+      "time": 150740
+    },
+    {
+      "player": {
+        "displayName": "Oi.",
+        "steamID": 76561198081229600
+      },
+      "time": 150820
+    },
+    {
+      "player": {
+        "displayName": "Merloga",
+        "steamID": 76561198062727020
+      },
+      "time": 150920
+    },
+    {
+      "player": {
+        "displayName": "valiant0909",
+        "steamID": 76561198135854454
+      },
+      "time": 151010
+    },
+    {
+      "player": {
+        "displayName": "Scythemaw",
+        "steamID": 76561198197753609
+      },
+      "time": 151200
+    },
+    {
+      "player": {
+        "displayName": "Plebeian Jay",
+        "steamID": 76561198050778736
+      },
+      "time": 151280
+    },
+    {
+      "player": {
+        "displayName": "Polarhigh",
+        "steamID": 76561198001780449
+      },
+      "time": 151400
+    },
+    {
+      "player": {
+        "displayName": "Skrat Daniels",
+        "steamID": 76561198048864394
+      },
+      "time": 151440
+    },
+    {
+      "player": {
+        "displayName": "Clotface",
+        "steamID": 76561198056937073
+      },
+      "time": 151450
+    },
+    {
+      "player": {
+        "displayName": "Goodra Lover",
+        "steamID": 76561198234701620
+      },
+      "time": 151500
+    },
+    {
+      "player": {
+        "displayName": "Sina",
+        "steamID": 76561198048925379
+      },
+      "time": 151620
+    },
+    {
+      "player": {
+        "displayName": "AnTr LordVultar",
+        "steamID": 76561198032399619
+      },
+      "time": 151890
+    },
+    {
+      "player": {
+        "displayName": "Bodyburger",
+        "steamID": 76561197978983709
+      },
+      "time": 152000
+    },
+    {
+      "player": {
+        "displayName": "vulduv",
+        "steamID": 76561198120507534
+      },
+      "time": 152130
+    },
+    {
+      "player": {
+        "displayName": "ΩScoots_PootsΩ",
+        "steamID": 76561198078975094
+      },
+      "time": 152160
+    },
+    {
+      "player": {
+        "displayName": "Ghost4573",
+        "steamID": 76561198121806743
+      },
+      "time": 152330
+    },
+    {
+      "player": {
+        "displayName": "AtomicRobot",
+        "steamID": 76561198034900611
+      },
+      "time": 152360
+    },
+    {
+      "player": {
+        "displayName": "echance01",
+        "steamID": 76561198086489612
+      },
+      "time": 152640
+    },
+    {
+      "player": {
+        "displayName": "Mini Satan",
+        "steamID": 76561198048901654
+      },
+      "time": 152680
+    },
+    {
+      "player": {
+        "displayName": "EdgeMiles",
+        "steamID": 76561198024372216
+      },
+      "time": 152880
+    },
+    {
+      "player": {
+        "displayName": "Siddey10",
+        "steamID": 76561198027365378
+      },
+      "time": 152980
+    },
+    {
+      "player": {
+        "displayName": "Bebop",
+        "steamID": 76561198114912960
+      },
+      "time": 153550
+    },
+    {
+      "player": {
+        "displayName": "Boiled Potatoes",
+        "steamID": 76561198299780501
+      },
+      "time": 153590
+    },
+    {
+      "player": {
+        "displayName": "Wo ist meine Milch?",
+        "steamID": 76561198060108612
+      },
+      "time": 153670
+    },
+    {
+      "player": {
+        "displayName": "AJ92",
+        "steamID": 76561197972680021
+      },
+      "time": 153680
+    },
+    {
+      "player": {
+        "displayName": "-|WaD|- Cactus Jack",
+        "steamID": 76561197980991525
+      },
+      "time": 153900
+    },
+    {
+      "player": {
+        "displayName": "ForeignMusic",
+        "steamID": 76561198082297552
+      },
+      "time": 154040
+    },
+    {
+      "player": {
+        "displayName": "Wispfire",
+        "steamID": 76561198002072265
+      },
+      "time": 154050
+    },
+    {
+      "player": {
+        "displayName": "Dracheron",
+        "steamID": 76561198063210516
+      },
+      "time": 154120
+    },
+    {
+      "player": {
+        "displayName": "Armored Trashbin",
+        "steamID": 76561197991243263
+      },
+      "time": 154350
+    },
+    {
+      "player": {
+        "displayName": "duckasick",
+        "steamID": 76561198131219194
+      },
+      "time": 154470
+    },
+    {
+      "player": {
+        "displayName": "ZeitlosZero",
+        "steamID": 76561198038434755
+      },
+      "time": 154500
+    },
+    {
+      "player": {
+        "displayName": "TheEPROM9 LaTeX",
+        "steamID": 76561197986989279
+      },
+      "time": 154570
+    },
+    {
+      "player": {
+        "displayName": "Kaamalauppias",
+        "steamID": 76561198052142340
+      },
+      "time": 154650
+    },
+    {
+      "player": {
+        "displayName": "Kiodey",
+        "steamID": 76561198079456701
+      },
+      "time": 154700
+    },
+    {
+      "player": {
+        "displayName": "Damashii",
+        "steamID": 76561198129120223
+      },
+      "time": 154810
+    },
+    {
+      "player": {
+        "displayName": "Generic",
+        "steamID": 76561198025494242
+      },
+      "time": 154860
+    },
+    {
+      "player": {
+        "displayName": "GuardianLKC",
+        "steamID": 76561197992454725
+      },
+      "time": 154950
+    },
+    {
+      "player": {
+        "displayName": "d0nny",
+        "steamID": 76561198025268810
+      },
+      "time": 155110
+    },
+    {
+      "player": {
+        "displayName": "PKK_Haseo_PKK",
+        "steamID": 76561198056388156
+      },
+      "time": 155350
+    },
+    {
+      "player": {
+        "displayName": "ValkenVugen",
+        "steamID": 76561198182207771
+      },
+      "time": 155690
+    },
+    {
+      "player": {
+        "displayName": "Truffles Galore",
+        "steamID": 76561198028074055
+      },
+      "time": 155720
+    },
+    {
+      "player": {
+        "displayName": "The_FlyingSpider",
+        "steamID": 76561198028119563
+      },
+      "time": 155830
+    },
+    {
+      "player": {
+        "displayName": "2001 Volkswagen Jetta",
+        "steamID": 76561198146694889
+      },
+      "time": 155960
+    },
+    {
+      "player": {
+        "displayName": "EC0re",
+        "steamID": 76561198065348166
+      },
+      "time": 156010
+    },
+    {
+      "player": {
+        "displayName": "MillennialSocialist",
+        "steamID": 76561198257200951
+      },
+      "time": 156060
+    },
+    {
+      "player": {
+        "displayName": "Silly Xili",
+        "steamID": 76561198144540153
+      },
+      "time": 156100
+    },
+    {
+      "player": {
+        "displayName": "svenstaro",
+        "steamID": 76561197960590675
+      },
+      "time": 156220
+    },
+    {
+      "player": {
+        "displayName": "Bastard Queen",
+        "steamID": 76561198153472095
+      },
+      "time": 156410
+    },
+    {
+      "player": {
+        "displayName": "SurreFire47",
+        "steamID": 76561198143682727
+      },
+      "time": 156480
+    },
+    {
+      "player": {
+        "displayName": "LegoRJ35",
+        "steamID": 76561198080716773
+      },
+      "time": 156500
+    },
+    {
+      "player": {
+        "displayName": "𝓛𝓪𝓾𝓻𝓪𝓷𝓽",
+        "steamID": 76561198271460949
+      },
+      "time": 156530
+    },
+    {
+      "player": {
+        "displayName": "Megacrafter127",
+        "steamID": 76561198092235385
+      },
+      "time": 156870
+    },
+    {
+      "player": {
+        "displayName": "Zindaye",
+        "steamID": 76561198088830145
+      },
+      "time": 156910
+    },
+    {
+      "player": {
+        "displayName": "Slobbed Knob",
+        "steamID": 76561198080686237
+      },
+      "time": 157220
+    },
+    {
+      "player": {
+        "displayName": "MidKnightRanger",
+        "steamID": 76561198112041532
+      },
+      "time": 157300
+    },
+    {
+      "player": {
+        "displayName": "SimplyMav",
+        "steamID": 76561198040953428
+      },
+      "time": 157570
+    },
+    {
+      "player": {
+        "displayName": "falthazar",
+        "steamID": 76561197970312081
+      },
+      "time": 157610
+    },
+    {
+      "player": {
+        "displayName": "✪ savo™",
+        "steamID": 76561197988664082
+      },
+      "time": 157740
+    },
+    {
+      "player": {
+        "displayName": "The Intellecrats",
+        "steamID": 76561198247751840
+      },
+      "time": 157950
+    },
+    {
+      "player": {
+        "displayName": "ThetruBman",
+        "steamID": 76561198082534908
+      },
+      "time": 158300
+    },
+    {
+      "player": {
+        "displayName": "RhythmPixel",
+        "steamID": 76561198036219390
+      },
+      "time": 158460
+    },
+    {
+      "player": {
+        "displayName": "Sky Captain",
+        "steamID": 76561197999620233
+      },
+      "time": 158730
+    },
+    {
+      "player": {
+        "displayName": "Poison",
+        "steamID": 76561198167042494
+      },
+      "time": 158800
+    },
+    {
+      "player": {
+        "displayName": "Azem_of_Earth",
+        "steamID": 76561198129291992
+      },
+      "time": 158980
+    },
+    {
+      "player": {
+        "displayName": "zHatsuharu",
+        "steamID": 76561198150180717
+      },
+      "time": 159000
+    },
+    {
+      "player": {
+        "displayName": "Berzerk'r",
+        "steamID": 76561198084438565
+      },
+      "time": 159220
+    },
+    {
+      "player": {
+        "displayName": "RedShirt",
+        "steamID": 76561198034742080
+      },
+      "time": 159230
+    },
+    {
+      "player": {
+        "displayName": "BaconByte301",
+        "steamID": 76561198296767878
+      },
+      "time": 159450
+    },
+    {
+      "player": {
+        "displayName": "RobDaVideoGamer",
+        "steamID": 76561198011132346
+      },
+      "time": 159480
+    },
+    {
+      "player": {
+        "displayName": "torcht",
+        "steamID": 76561197993308241
+      },
+      "time": 159580
+    },
+    {
+      "player": {
+        "displayName": "Josh",
+        "steamID": 76561198255831970
+      },
+      "time": 159650
+    },
+    {
+      "player": {
+        "displayName": "Sixolu-Veks",
+        "steamID": 76561198049555150
+      },
+      "time": 159950
+    },
+    {
+      "player": {
+        "displayName": "Mr.Nirschl",
+        "steamID": 76561198151308767
+      },
+      "time": 160140
+    },
+    {
+      "player": {
+        "displayName": "KoKoKoKo",
+        "steamID": 76561198000458747
+      },
+      "time": 160310
+    },
+    {
+      "player": {
+        "displayName": "Tame",
+        "steamID": 76561198002452858
+      },
+      "time": 160390
+    },
+    {
+      "player": {
+        "displayName": "Firaxa",
+        "steamID": 76561198097600737
+      },
+      "time": 160550
+    },
+    {
+      "player": {
+        "displayName": "Pessimystic",
+        "steamID": 76561198060203527
+      },
+      "time": 160580
+    },
+    {
+      "player": {
+        "displayName": "OctaGear",
+        "steamID": 76561198110656995
+      },
+      "time": 160620
+    },
+    {
+      "player": {
+        "displayName": "Corporeal",
+        "steamID": 76561198062577429
+      },
+      "time": 160730
+    },
+    {
+      "player": {
+        "displayName": "gudbye",
+        "steamID": 76561198064805288
+      },
+      "time": 160860
+    },
+    {
+      "player": {
+        "displayName": "wanderingradio",
+        "steamID": 76561198088286149
+      },
+      "time": 160940
+    },
+    {
+      "player": {
+        "displayName": "a NOOOB",
+        "steamID": 76561198025065708
+      },
+      "time": 161000
+    },
+    {
+      "player": {
+        "displayName": "Darth Sand",
+        "steamID": 76561198069521388
+      },
+      "time": 161060
+    },
+    {
+      "player": {
+        "displayName": "Le Weaboo",
+        "steamID": 76561198080338334
+      },
+      "time": 161130
+    },
+    {
+      "player": {
+        "displayName": "NK Nukes",
+        "steamID": 76561198102563350
+      },
+      "time": 161180
+    },
+    {
+      "player": {
+        "displayName": "BoyVOL",
+        "steamID": 76561198073463781
+      },
+      "time": 161400
+    },
+    {
+      "player": {
+        "displayName": "dragon",
+        "steamID": 76561198023403230
+      },
+      "time": 161420
+    },
+    {
+      "player": {
+        "displayName": "wirkow",
+        "steamID": 76561198089783609
+      },
+      "time": 161490
+    },
+    {
+      "player": {
+        "displayName": "DFOXpro Colombia UN",
+        "steamID": 76561198078126258
+      },
+      "time": 161560
+    },
+    {
+      "player": {
+        "displayName": "nightclubpositive",
+        "steamID": 76561198322374196
+      },
+      "time": 161650
+    },
+    {
+      "player": {
+        "displayName": "SSIIIIIIIIIIINNDDWWRRYYYYYYY",
+        "steamID": 76561198041389617
+      },
+      "time": 161680
+    },
+    {
+      "player": {
+        "displayName": "Hvolsomt",
+        "steamID": 76561198001347322
+      },
+      "time": 161780
+    },
+    {
+      "player": {
+        "displayName": "Black Alexidor",
+        "steamID": 76561197994026840
+      },
+      "time": 161930
+    },
+    {
+      "player": {
+        "displayName": "forvald",
+        "steamID": 76561198012568990
+      },
+      "time": 162110
+    },
+    {
+      "player": {
+        "displayName": "Fαυѕтσ",
+        "steamID": 76561198027935082
+      },
+      "time": 162170
+    },
+    {
+      "player": {
+        "displayName": "Beskar",
+        "steamID": 76561198041836032
+      },
+      "time": 162340
+    },
+    {
+      "player": {
+        "displayName": "NorthyPark ☭",
+        "steamID": 76561198079437908
+      },
+      "time": 162460
+    },
+    {
+      "player": {
+        "displayName": "Aggelitus",
+        "steamID": 76561198018128679
+      },
+      "time": 162780
+    },
+    {
+      "player": {
+        "displayName": "AlphaomegA",
+        "steamID": 76561197995937942
+      },
+      "time": 163080
+    },
+    {
+      "player": {
+        "displayName": "icefire",
+        "steamID": 76561198008412100
+      },
+      "time": 163130
+    },
+    {
+      "player": {
+        "displayName": "Excelsiormom",
+        "steamID": 76561198019773450
+      },
+      "time": 163220
+    },
+    {
+      "player": {
+        "displayName": "Manthony",
+        "steamID": 76561198026220336
+      },
+      "time": 163230
+    },
+    {
+      "player": {
+        "displayName": "AberrantAlchemist",
+        "steamID": 76561198074363885
+      },
+      "time": 163280
+    },
+    {
+      "player": {
+        "displayName": "Apocriopath",
+        "steamID": 76561198001916474
+      },
+      "time": 163770
+    },
+    {
+      "player": {
+        "displayName": "Khaezaid",
+        "steamID": 76561198025622980
+      },
+      "time": 163800
+    },
+    {
+      "player": {
+        "displayName": "Xi VENOM iX",
+        "steamID": 76561198038863008
+      },
+      "time": 163800
+    },
+    {
+      "player": {
+        "displayName": "Saint Fiacre",
+        "steamID": 76561198052964000
+      },
+      "time": 163800
+    },
+    {
+      "player": {
+        "displayName": "JacobH",
+        "steamID": 76561198068648085
+      },
+      "time": 163920
+    },
+    {
+      "player": {
+        "displayName": "Saturn",
+        "steamID": 76561198109064967
+      },
+      "time": 163940
+    },
+    {
+      "player": {
+        "displayName": "Folkie ♞",
+        "steamID": 76561198068997374
+      },
+      "time": 164150
+    },
+    {
+      "player": {
+        "displayName": "ALex_X20X_",
+        "steamID": 76561198045584631
+      },
+      "time": 164450
+    },
+    {
+      "player": {
+        "displayName": "Sphealmint",
+        "steamID": 76561198041200751
+      },
+      "time": 164490
+    },
+    {
+      "player": {
+        "displayName": "Banhi Banhi",
+        "steamID": 76561198083986714
+      },
+      "time": 164560
+    },
+    {
+      "player": {
+        "displayName": "Jester Thomas",
+        "steamID": 76561198040719296
+      },
+      "time": 164810
+    },
+    {
+      "player": {
+        "displayName": "DapperWisp",
+        "steamID": 76561198101793312
+      },
+      "time": 164820
+    },
+    {
+      "player": {
+        "displayName": "SenseiRalph",
+        "steamID": 76561198271949148
+      },
+      "time": 165000
+    },
+    {
+      "player": {
+        "displayName": "EliteFourBruno",
+        "steamID": 76561198090719679
+      },
+      "time": 165080
+    },
+    {
+      "player": {
+        "displayName": "Vlyox",
+        "steamID": 76561198148812786
+      },
+      "time": 165280
+    },
+    {
+      "player": {
+        "displayName": "karlitosxddd",
+        "steamID": 76561198141865460
+      },
+      "time": 165310
+    },
+    {
+      "player": {
+        "displayName": "raviolifun",
+        "steamID": 76561198120327972
+      },
+      "time": 165320
+    },
+    {
+      "player": {
+        "displayName": "RED",
+        "steamID": 76561198027198785
+      },
+      "time": 165390
+    },
+    {
+      "player": {
+        "displayName": "Bardo",
+        "steamID": 76561197995471091
+      },
+      "time": 165660
+    },
+    {
+      "player": {
+        "displayName": "Tits Mcgee",
+        "steamID": 76561197978240075
+      },
+      "time": 165700
+    },
+    {
+      "player": {
+        "displayName": "Dakari",
+        "steamID": 76561198047789479
+      },
+      "time": 166040
+    },
+    {
+      "player": {
+        "displayName": "Nooby",
+        "steamID": 76561198215442835
+      },
+      "time": 166050
+    },
+    {
+      "player": {
+        "displayName": "Calambre",
+        "steamID": 76561198081906521
+      },
+      "time": 166090
+    },
+    {
+      "player": {
+        "displayName": "Fancyboom9004",
+        "steamID": 76561198048039334
+      },
+      "time": 166180
+    },
+    {
+      "player": {
+        "displayName": "Artz.Kurstapel",
+        "steamID": 76561198130826466
+      },
+      "time": 166380
+    },
+    {
+      "player": {
+        "displayName": "Randll",
+        "steamID": 76561198203167671
+      },
+      "time": 166420
+    },
+    {
+      "player": {
+        "displayName": "Grammynumnums",
+        "steamID": 76561198031395719
+      },
+      "time": 166430
+    },
+    {
+      "player": {
+        "displayName": "Dezdrun",
+        "steamID": 76561198005667924
+      },
+      "time": 166730
+    },
+    {
+      "player": {
+        "displayName": "Nergrim",
+        "steamID": 76561197994414405
+      },
+      "time": 166750
+    },
+    {
+      "player": {
+        "displayName": "GlitchedSights",
+        "steamID": 76561198050504510
+      },
+      "time": 166750
+    },
+    {
+      "player": {
+        "displayName": "theunorthodoxgamer",
+        "steamID": 76561198096077124
+      },
+      "time": 166830
+    },
+    {
+      "player": {
+        "displayName": "Catrix",
+        "steamID": 76561198077913670
+      },
+      "time": 167140
+    },
+    {
+      "player": {
+        "displayName": "disappointment",
+        "steamID": 76561198050580530
+      },
+      "time": 167360
+    },
+    {
+      "player": {
+        "displayName": "Losi",
+        "steamID": 76561198153631994
+      },
+      "time": 167620
+    },
+    {
+      "player": {
+        "displayName": "Пожизненное ЛП",
+        "steamID": 76561198215217743
+      },
+      "time": 167650
+    },
+    {
+      "player": {
+        "displayName": "Arin707",
+        "steamID": 76561198070192932
+      },
+      "time": 167710
+    },
+    {
+      "player": {
+        "displayName": "Eppy37",
+        "steamID": 76561198004384633
+      },
+      "time": 167820
+    },
+    {
+      "player": {
+        "displayName": "Toruk Makto",
+        "steamID": 76561198130536406
+      },
+      "time": 167910
+    },
+    {
+      "player": {
+        "displayName": "James Bong",
+        "steamID": 76561198018652678
+      },
+      "time": 168050
+    },
+    {
+      "player": {
+        "displayName": "HalfPathetic",
+        "steamID": 76561198048928996
+      },
+      "time": 168240
+    },
+    {
+      "player": {
+        "displayName": "Maverick Shadowblade",
+        "steamID": 76561198093419102
+      },
+      "time": 168320
+    },
+    {
+      "player": {
+        "displayName": "Kung-Fu-Lobbe",
+        "steamID": 76561198119149331
+      },
+      "time": 168500
+    },
+    {
+      "player": {
+        "displayName": "Fiyerjenkins",
+        "steamID": 76561197992720388
+      },
+      "time": 168520
+    },
+    {
+      "player": {
+        "displayName": "Gandalf",
+        "steamID": 76561198267295181
+      },
+      "time": 168530
+    },
+    {
+      "player": {
+        "displayName": "Matork",
+        "steamID": 76561198035298717
+      },
+      "time": 168890
+    },
+    {
+      "player": {
+        "displayName": "cloud9350",
+        "steamID": 76561198079993040
+      },
+      "time": 169020
+    },
+    {
+      "player": {
+        "displayName": "BlackMageXVI",
+        "steamID": 76561197995340559
+      },
+      "time": 169240
+    },
+    {
+      "player": {
+        "displayName": "DarkGria",
+        "steamID": 76561198075314993
+      },
+      "time": 169350
+    },
+    {
+      "player": {
+        "displayName": "Infinite Gaming",
+        "steamID": 76561198123202275
+      },
+      "time": 169530
+    },
+    {
+      "player": {
+        "displayName": "Crewgar",
+        "steamID": 76561198101406295
+      },
+      "time": 169870
+    },
+    {
+      "player": {
+        "displayName": "spedzo_-",
+        "steamID": 76561197991372867
+      },
+      "time": 170220
+    },
+    {
+      "player": {
+        "displayName": ".f",
+        "steamID": 76561198041496914
+      },
+      "time": 170570
+    },
+    {
+      "player": {
+        "displayName": "Pims",
+        "steamID": 76561198072522165
+      },
+      "time": 170660
+    },
+    {
+      "player": {
+        "displayName": "FlameDecepter",
+        "steamID": 76561198102164390
+      },
+      "time": 170820
+    },
+    {
+      "player": {
+        "displayName": "Suicide",
+        "steamID": 76561198101629930
+      },
+      "time": 171040
+    },
+    {
+      "player": {
+        "displayName": "lii.",
+        "steamID": 76561198085809381
+      },
+      "time": 171120
+    },
+    {
+      "player": {
+        "displayName": "『Wolfy Neah』",
+        "steamID": 76561198035545093
+      },
+      "time": 171340
+    },
+    {
+      "player": {
+        "displayName": "Sadman",
+        "steamID": 76561198131021455
+      },
+      "time": 171440
+    },
+    {
+      "player": {
+        "displayName": "P4T4P0N",
+        "steamID": 76561198301575488
+      },
+      "time": 171600
+    },
+    {
+      "player": {
+        "displayName": "Hein",
+        "steamID": 76561197969547312
+      },
+      "time": 171680
+    },
+    {
+      "player": {
+        "displayName": "Enitoni",
+        "steamID": 76561198028719257
+      },
+      "time": 171950
+    },
+    {
+      "player": {
+        "displayName": "Frizzybman11",
+        "steamID": 76561198015431512
+      },
+      "time": 172020
+    },
+    {
+      "player": {
+        "displayName": "McBustedFan_98",
+        "steamID": 76561198042004154
+      },
+      "time": 172040
+    },
+    {
+      "player": {
+        "displayName": "Rapt0r",
+        "steamID": 76561198151591991
+      },
+      "time": 172170
+    },
+    {
+      "player": {
+        "displayName": "Lawrenza",
+        "steamID": 76561198020688180
+      },
+      "time": 172210
+    },
+    {
+      "player": {
+        "displayName": "Aastran",
+        "steamID": 76561198119179836
+      },
+      "time": 172320
+    },
+    {
+      "player": {
+        "displayName": "mine152",
+        "steamID": 76561198338802362
+      },
+      "time": 172340
+    },
+    {
+      "player": {
+        "displayName": "Thunder Waffle",
+        "steamID": 76561198049109177
+      },
+      "time": 172500
+    },
+    {
+      "player": {
+        "displayName": "R.P.O.D.",
+        "steamID": 76561197991155734
+      },
+      "time": 172560
+    },
+    {
+      "player": {
+        "displayName": "deathx88",
+        "steamID": 76561197976001863
+      },
+      "time": 172570
+    },
+    {
+      "player": {
+        "displayName": "TenaciousADD",
+        "steamID": 76561198010996493
+      },
+      "time": 172610
+    },
+    {
+      "player": {
+        "displayName": "Mufasa",
+        "steamID": 76561198015378758
+      },
+      "time": 172620
+    },
+    {
+      "player": {
+        "displayName": "Sahne",
+        "steamID": 76561198053475554
+      },
+      "time": 172770
+    },
+    {
+      "player": {
+        "displayName": "Alex from AK #RemoveRandomCrits",
+        "steamID": 76561198120426715
+      },
+      "time": 172780
+    },
+    {
+      "player": {
+        "displayName": "Alex_Jericho",
+        "steamID": 76561198277319758
+      },
+      "time": 172900
+    },
+    {
+      "player": {
+        "displayName": "Dogtorque",
+        "steamID": 76561198046827777
+      },
+      "time": 173220
+    },
+    {
+      "player": {
+        "displayName": "RIVVION",
+        "steamID": 76561198046900320
+      },
+      "time": 173280
+    },
+    {
+      "player": {
+        "displayName": "SupaSnor",
+        "steamID": 76561198082049258
+      },
+      "time": 173630
+    },
+    {
+      "player": {
+        "displayName": "Zane Wuffy",
+        "steamID": 76561198007985700
+      },
+      "time": 173660
+    },
+    {
+      "player": {
+        "displayName": "Zebulon759",
+        "steamID": 76561198129657655
+      },
+      "time": 173730
+    },
+    {
+      "player": {
+        "displayName": "NeonUmbreon",
+        "steamID": 76561198119697124
+      },
+      "time": 173750
+    },
+    {
+      "player": {
+        "displayName": "Capt.MordecaiMurdock",
+        "steamID": 76561198016297732
+      },
+      "time": 174160
+    },
+    {
+      "player": {
+        "displayName": "❄Frostile❄",
+        "steamID": 76561198052971595
+      },
+      "time": 174180
+    },
+    {
+      "player": {
+        "displayName": "Deceased_Ninja",
+        "steamID": 76561198063436059
+      },
+      "time": 174300
+    },
+    {
+      "player": {
+        "displayName": "cies016",
+        "steamID": 76561198263560221
+      },
+      "time": 174300
+    },
+    {
+      "player": {
+        "displayName": "Dazer",
+        "steamID": 76561198025179349
+      },
+      "time": 174580
+    },
+    {
+      "player": {
+        "displayName": "GammeDiamond",
+        "steamID": 76561198047750325
+      },
+      "time": 174620
+    },
+    {
+      "player": {
+        "displayName": "synfire",
+        "steamID": 76561198006669949
+      },
+      "time": 174880
+    },
+    {
+      "player": {
+        "displayName": "uhhh marie??",
+        "steamID": 76561198256697219
+      },
+      "time": 175060
+    },
+    {
+      "player": {
+        "displayName": "SneakyBomber",
+        "steamID": 76561198001611403
+      },
+      "time": 175090
+    },
+    {
+      "player": {
+        "displayName": "rip in pieces",
+        "steamID": 76561198078651607
+      },
+      "time": 175140
+    },
+    {
+      "player": {
+        "displayName": "Dukeofspook",
+        "steamID": 76561198052896687
+      },
+      "time": 175220
+    },
+    {
+      "player": {
+        "displayName": "hexrebuilt",
+        "steamID": 76561198091895459
+      },
+      "time": 175270
+    },
+    {
+      "player": {
+        "displayName": "Werewolf8_8",
+        "steamID": 76561198125907154
+      },
+      "time": 175450
+    },
+    {
+      "player": {
+        "displayName": "RaveTech",
+        "steamID": 76561198040003629
+      },
+      "time": 175700
+    },
+    {
+      "player": {
+        "displayName": "Maikeru",
+        "steamID": 76561198079835408
+      },
+      "time": 176110
+    },
+    {
+      "player": {
+        "displayName": "Lucky Fox",
+        "steamID": 76561197984485538
+      },
+      "time": 176200
+    },
+    {
+      "player": {
+        "displayName": "Best TM8",
+        "steamID": 76561198064947212
+      },
+      "time": 176240
+    },
+    {
+      "player": {
+        "displayName": "VACuum.Cleaner",
+        "steamID": 76561198062936614
+      },
+      "time": 176350
+    },
+    {
+      "player": {
+        "displayName": "god",
+        "steamID": 76561198151504372
+      },
+      "time": 176430
+    },
+    {
+      "player": {
+        "displayName": "Johny Spaghetti",
+        "steamID": 76561198058131915
+      },
+      "time": 176600
+    },
+    {
+      "player": {
+        "displayName": "The Shred",
+        "steamID": 76561198034078029
+      },
+      "time": 176650
+    },
+    {
+      "player": {
+        "displayName": "Heliophile",
+        "steamID": 76561198043958519
+      },
+      "time": 177270
+    },
+    {
+      "player": {
+        "displayName": "Punished Blart",
+        "steamID": 76561198023429637
+      },
+      "time": 177350
+    },
+    {
+      "player": {
+        "displayName": "ungarr",
+        "steamID": 76561198126451326
+      },
+      "time": 177400
+    },
+    {
+      "player": {
+        "displayName": "SA",
+        "steamID": 76561198106850924
+      },
+      "time": 177550
+    },
+    {
+      "player": {
+        "displayName": "Yoru",
+        "steamID": 76561198128493189
+      },
+      "time": 177780
+    },
+    {
+      "player": {
+        "displayName": "Ferociouself",
+        "steamID": 76561198016642176
+      },
+      "time": 177880
+    },
+    {
+      "player": {
+        "displayName": "MrBunge",
+        "steamID": 76561198050491545
+      },
+      "time": 178490
+    },
+    {
+      "player": {
+        "displayName": "ӜɸCloudɸӜ",
+        "steamID": 76561198041570471
+      },
+      "time": 178630
+    },
+    {
+      "player": {
+        "displayName": "Zonee",
+        "steamID": 76561198048959273
+      },
+      "time": 178680
+    },
+    {
+      "player": {
+        "displayName": "HyperFlare957",
+        "steamID": 76561198071406674
+      },
+      "time": 178760
+    },
+    {
+      "player": {
+        "displayName": "oskolok",
+        "steamID": 76561198322381958
+      },
+      "time": 178840
+    },
+    {
+      "player": {
+        "displayName": "dragonhunter505",
+        "steamID": 76561198016179501
+      },
+      "time": 179160
+    },
+    {
+      "player": {
+        "displayName": "Bibibye",
+        "steamID": 76561198018976094
+      },
+      "time": 179160
+    },
+    {
+      "player": {
+        "displayName": "lamb0",
+        "steamID": 76561198015979514
+      },
+      "time": 179360
+    },
+    {
+      "player": {
+        "displayName": "Linousine",
+        "steamID": 76561198061380872
+      },
+      "time": 179380
+    },
+    {
+      "player": {
+        "displayName": "404",
+        "steamID": 76561198072458748
+      },
+      "time": 179710
+    },
+    {
+      "player": {
+        "displayName": "Turbo McDouglo",
+        "steamID": 76561198012938248
+      },
+      "time": 179930
+    },
+    {
+      "player": {
+        "displayName": "giratosxd",
+        "steamID": 76561198089235708
+      },
+      "time": 180220
+    },
+    {
+      "player": {
+        "displayName": "ImJeffafa",
+        "steamID": 76561198065536222
+      },
+      "time": 180430
+    },
+    {
+      "player": {
+        "displayName": "xioner",
+        "steamID": 76561197995594476
+      },
+      "time": 180760
+    },
+    {
+      "player": {
+        "displayName": "Hoopsie?",
+        "steamID": 76561198106165143
+      },
+      "time": 180920
+    },
+    {
+      "player": {
+        "displayName": ":^)",
+        "steamID": 76561198044130100
+      },
+      "time": 181500
+    },
+    {
+      "player": {
+        "displayName": "Pasha",
+        "steamID": 76561198044913426
+      },
+      "time": 181600
+    },
+    {
+      "player": {
+        "displayName": "Lana Nguyen",
+        "steamID": 76561198184845807
+      },
+      "time": 181810
+    },
+    {
+      "player": {
+        "displayName": "I`m in Miami, BIAATCHHH",
+        "steamID": 76561198001017865
+      },
+      "time": 181840
+    },
+    {
+      "player": {
+        "displayName": "Sodaras",
+        "steamID": 76561197969071363
+      },
+      "time": 181880
+    },
+    {
+      "player": {
+        "displayName": "T-10a",
+        "steamID": 76561198054765522
+      },
+      "time": 182020
+    },
+    {
+      "player": {
+        "displayName": "ahaa_xd",
+        "steamID": 76561198165108311
+      },
+      "time": 182790
+    },
+    {
+      "player": {
+        "displayName": "Ahkrin 'Descol",
+        "steamID": 76561198023596784
+      },
+      "time": 182960
+    },
+    {
+      "player": {
+        "displayName": "Lince",
+        "steamID": 76561198102754598
+      },
+      "time": 182990
+    },
+    {
+      "player": {
+        "displayName": "FieryIce",
+        "steamID": 76561198121246958
+      },
+      "time": 183670
+    },
+    {
+      "player": {
+        "displayName": "NetSlayer",
+        "steamID": 76561198047109122
+      },
+      "time": 183700
+    },
+    {
+      "player": {
+        "displayName": "Gor67S",
+        "steamID": 76561198063370856
+      },
+      "time": 183700
+    },
+    {
+      "player": {
+        "displayName": "s41NT",
+        "steamID": 76561197993126564
+      },
+      "time": 183730
+    },
+    {
+      "player": {
+        "displayName": "Moyoko",
+        "steamID": 76561198097597512
+      },
+      "time": 184060
+    },
+    {
+      "player": {
+        "displayName": "sparx041",
+        "steamID": 76561198255207274
+      },
+      "time": 184290
+    },
+    {
+      "player": {
+        "displayName": "Xaiux",
+        "steamID": 76561198060944272
+      },
+      "time": 184850
+    },
+    {
+      "player": {
+        "displayName": "The Bean",
+        "steamID": 76561198111860609
+      },
+      "time": 184890
+    },
+    {
+      "player": {
+        "displayName": "Terrapin Turtle",
+        "steamID": 76561198154078481
+      },
+      "time": 185510
+    },
+    {
+      "player": {
+        "displayName": "killaPete",
+        "steamID": 76561198240003306
+      },
+      "time": 185680
+    },
+    {
+      "player": {
+        "displayName": "Cody",
+        "steamID": 76561198057678471
+      },
+      "time": 185700
+    },
+    {
+      "player": {
+        "displayName": "Arceashh",
+        "steamID": 76561198276020538
+      },
+      "time": 185880
+    },
+    {
+      "player": {
+        "displayName": "jayhawk",
+        "steamID": 76561198036064556
+      },
+      "time": 185900
+    },
+    {
+      "player": {
+        "displayName": "dreifachpunkt.",
+        "steamID": 76561198355326156
+      },
+      "time": 185930
+    },
+    {
+      "player": {
+        "displayName": "Zakdayev",
+        "steamID": 76561198021011658
+      },
+      "time": 185960
+    },
+    {
+      "player": {
+        "displayName": "COTTON WARIOR",
+        "steamID": 76561198081086575
+      },
+      "time": 185980
+    },
+    {
+      "player": {
+        "displayName": "SinisterSecret",
+        "steamID": 76561198323198744
+      },
+      "time": 186200
+    },
+    {
+      "player": {
+        "displayName": "YEET",
+        "steamID": 76561197997209216
+      },
+      "time": 187070
+    },
+    {
+      "player": {
+        "displayName": "cheif22",
+        "steamID": 76561198119546164
+      },
+      "time": 187200
+    },
+    {
+      "player": {
+        "displayName": "Dark Milk",
+        "steamID": 76561198086209508
+      },
+      "time": 187300
+    },
+    {
+      "player": {
+        "displayName": "Virttual",
+        "steamID": 76561198122813778
+      },
+      "time": 187390
+    },
+    {
+      "player": {
+        "displayName": "taciturasa (she/her)",
+        "steamID": 76561198074635392
+      },
+      "time": 187860
+    },
+    {
+      "player": {
+        "displayName": "Гривач",
+        "steamID": 76561198021761975
+      },
+      "time": 188000
+    },
+    {
+      "player": {
+        "displayName": "Emerald_Pick",
+        "steamID": 76561198108145031
+      },
+      "time": 188090
+    },
+    {
+      "player": {
+        "displayName": "Bartender 141 GET BIT",
+        "steamID": 76561198043241674
+      },
+      "time": 188130
+    },
+    {
+      "player": {
+        "displayName": "AyeBee",
+        "steamID": 76561198106942144
+      },
+      "time": 188510
+    },
+    {
+      "player": {
+        "displayName": "Admiral Waffles",
+        "steamID": 76561198037578471
+      },
+      "time": 188520
+    },
+    {
+      "player": {
+        "displayName": "Toaster",
+        "steamID": 76561198071755257
+      },
+      "time": 188610
+    },
+    {
+      "player": {
+        "displayName": "KagamiNoOrochi",
+        "steamID": 76561198158659495
+      },
+      "time": 188940
+    },
+    {
+      "player": {
+        "displayName": "PurpleSuede",
+        "steamID": 76561198308735695
+      },
+      "time": 189360
+    },
+    {
+      "player": {
+        "displayName": "Naxreus",
+        "steamID": 76561198012466001
+      },
+      "time": 189560
+    },
+    {
+      "player": {
+        "displayName": "Krill",
+        "steamID": 76561198074240932
+      },
+      "time": 189620
+    },
+    {
+      "player": {
+        "displayName": "♫RL Link",
+        "steamID": 76561197997836669
+      },
+      "time": 189870
+    },
+    {
+      "player": {
+        "displayName": "MC Slope",
+        "steamID": 76561198245531142
+      },
+      "time": 190440
+    },
+    {
+      "player": {
+        "displayName": "Acrid",
+        "steamID": 76561198124912729
+      },
+      "time": 190860
+    },
+    {
+      "player": {
+        "displayName": "HistoriaGaming",
+        "steamID": 76561198045718350
+      },
+      "time": 191080
+    },
+    {
+      "player": {
+        "displayName": "Piiec",
+        "steamID": 76561198255620812
+      },
+      "time": 191090
+    },
+    {
+      "player": {
+        "displayName": "Yep that's me",
+        "steamID": 76561198145708502
+      },
+      "time": 191150
+    },
+    {
+      "player": {
+        "displayName": "Cadet",
+        "steamID": 76561198064472707
+      },
+      "time": 191190
+    },
+    {
+      "player": {
+        "displayName": "crazymaurice",
+        "steamID": 76561198039721430
+      },
+      "time": 191390
+    },
+    {
+      "player": {
+        "displayName": "Rybot",
+        "steamID": 76561198016474074
+      },
+      "time": 191820
+    },
+    {
+      "player": {
+        "displayName": "5el.",
+        "steamID": 76561198047364141
+      },
+      "time": 191820
+    },
+    {
+      "player": {
+        "displayName": "^4SentrieGun~<3",
+        "steamID": 76561198128277478
+      },
+      "time": 191980
+    },
+    {
+      "player": {
+        "displayName": "byFluff",
+        "steamID": 76561198093187824
+      },
+      "time": 192010
+    },
+    {
+      "player": {
+        "displayName": "data507",
+        "steamID": 76561198114873592
+      },
+      "time": 192250
+    },
+    {
+      "player": {
+        "displayName": "FlamingFlamingo",
+        "steamID": 76561198091808567
+      },
+      "time": 192300
+    },
+    {
+      "player": {
+        "displayName": "Goofy",
+        "steamID": 76561198126617040
+      },
+      "time": 192310
+    },
+    {
+      "player": {
+        "displayName": "Struggers",
+        "steamID": 76561198046477148
+      },
+      "time": 192320
+    },
+    {
+      "player": {
+        "displayName": "sakata",
+        "steamID": 76561198016590439
+      },
+      "time": 192520
+    },
+    {
+      "player": {
+        "displayName": "LVENTO",
+        "steamID": 76561197967089929
+      },
+      "time": 192590
+    },
+    {
+      "player": {
+        "displayName": "thebatzel",
+        "steamID": 76561198072365437
+      },
+      "time": 192740
+    },
+    {
+      "player": {
+        "displayName": "Hyldago",
+        "steamID": 76561197997624159
+      },
+      "time": 193530
+    },
+    {
+      "player": {
+        "displayName": "Vapor for Brains",
+        "steamID": 76561198021523732
+      },
+      "time": 193730
+    },
+    {
+      "player": {
+        "displayName": "ShadedEdge",
+        "steamID": 76561198045660886
+      },
+      "time": 193730
+    },
+    {
+      "player": {
+        "displayName": "Stripe x",
+        "steamID": 76561198037460592
+      },
+      "time": 193890
+    },
+    {
+      "player": {
+        "displayName": "TheArka96",
+        "steamID": 76561198084053191
+      },
+      "time": 193910
+    },
+    {
+      "player": {
+        "displayName": "LoovyTurgz",
+        "steamID": 76561198029557889
+      },
+      "time": 193960
+    },
+    {
+      "player": {
+        "displayName": "xeno-iwnl-",
+        "steamID": 76561198289927250
+      },
+      "time": 193980
+    },
+    {
+      "player": {
+        "displayName": "virus",
+        "steamID": 76561198170425402
+      },
+      "time": 193990
+    },
+    {
+      "player": {
+        "displayName": "Placeholder",
+        "steamID": 76561198050083489
+      },
+      "time": 194430
+    },
+    {
+      "player": {
+        "displayName": "Kansil",
+        "steamID": 76561198142990971
+      },
+      "time": 194610
+    },
+    {
+      "player": {
+        "displayName": "SparraNova",
+        "steamID": 76561198104224393
+      },
+      "time": 194820
+    },
+    {
+      "player": {
+        "displayName": "Omnes",
+        "steamID": 76561198011003487
+      },
+      "time": 195040
+    },
+    {
+      "player": {
+        "displayName": "Parano",
+        "steamID": 76561197989436362
+      },
+      "time": 195200
+    },
+    {
+      "player": {
+        "displayName": "King Pikmin",
+        "steamID": 76561198045790654
+      },
+      "time": 195370
+    },
+    {
+      "player": {
+        "displayName": "fruitspunchsamuraiG",
+        "steamID": 76561198079757505
+      },
+      "time": 195430
+    },
+    {
+      "player": {
+        "displayName": "Asphixyss",
+        "steamID": 76561198247007844
+      },
+      "time": 195450
+    },
+    {
+      "player": {
+        "displayName": "Alopex",
+        "steamID": 76561198091495023
+      },
+      "time": 195620
+    },
+    {
+      "player": {
+        "displayName": "uriennj",
+        "steamID": 76561198088290158
+      },
+      "time": 195930
+    },
+    {
+      "player": {
+        "displayName": "Schranzonator",
+        "steamID": 76561198178589222
+      },
+      "time": 195980
+    },
+    {
+      "player": {
+        "displayName": "Exceige",
+        "steamID": 76561198028393902
+      },
+      "time": 196090
+    },
+    {
+      "player": {
+        "displayName": "SirLiveAlot",
+        "steamID": 76561197968830351
+      },
+      "time": 196160
+    },
+    {
+      "player": {
+        "displayName": "Diablo",
+        "steamID": 76561198016203807
+      },
+      "time": 196580
+    },
+    {
+      "player": {
+        "displayName": "Black Ninja",
+        "steamID": 76561198070319748
+      },
+      "time": 196670
+    },
+    {
+      "player": {
+        "displayName": "jerem99",
+        "steamID": 76561198143288938
+      },
+      "time": 196710
+    },
+    {
+      "player": {
+        "displayName": "thetimeline30",
+        "steamID": 76561198211675640
+      },
+      "time": 197120
+    },
+    {
+      "player": {
+        "displayName": "Eos",
+        "steamID": 76561198037378911
+      },
+      "time": 197150
+    },
+    {
+      "player": {
+        "displayName": "RunningMountain",
+        "steamID": 76561198062632826
+      },
+      "time": 197190
+    },
+    {
+      "player": {
+        "displayName": "Burnign",
+        "steamID": 76561198191473191
+      },
+      "time": 197210
+    },
+    {
+      "player": {
+        "displayName": "DarkPhoenix",
+        "steamID": 76561198120176517
+      },
+      "time": 197290
+    },
+    {
+      "player": {
+        "displayName": "Psychochrome",
+        "steamID": 76561198203716799
+      },
+      "time": 197330
+    },
+    {
+      "player": {
+        "displayName": "Streecer",
+        "steamID": 76561198023940697
+      },
+      "time": 197440
+    },
+    {
+      "player": {
+        "displayName": "Greer",
+        "steamID": 76561198003332413
+      },
+      "time": 197570
+    },
+    {
+      "player": {
+        "displayName": "JTURBOH | just playin 4 XP",
+        "steamID": 76561198088893592
+      },
+      "time": 197600
+    },
+    {
+      "player": {
+        "displayName": "rsman",
+        "steamID": 76561198093782869
+      },
+      "time": 197780
+    },
+    {
+      "player": {
+        "displayName": "{xaoc}-Bitman and Frodo",
+        "steamID": 76561198126575098
+      },
+      "time": 198040
+    },
+    {
+      "player": {
+        "displayName": "ninjahedgehog 12",
+        "steamID": 76561198148261941
+      },
+      "time": 198460
+    },
+    {
+      "player": {
+        "displayName": "Ganzer Watch",
+        "steamID": 76561198125260915
+      },
+      "time": 198520
+    },
+    {
+      "player": {
+        "displayName": "A Live Studio Audience",
+        "steamID": 76561198044662038
+      },
+      "time": 198760
+    },
+    {
+      "player": {
+        "displayName": "Jsh",
+        "steamID": 76561198023685521
+      },
+      "time": 198790
+    },
+    {
+      "player": {
+        "displayName": "Chizuri",
+        "steamID": 76561198068907369
+      },
+      "time": 199320
+    },
+    {
+      "player": {
+        "displayName": "PhantomRama",
+        "steamID": 76561198142485496
+      },
+      "time": 199410
+    },
+    {
+      "player": {
+        "displayName": "Bratalix",
+        "steamID": 76561197991250816
+      },
+      "time": 199490
+    },
+    {
+      "player": {
+        "displayName": "Stracker",
+        "steamID": 76561198022340931
+      },
+      "time": 199820
+    },
+    {
+      "player": {
+        "displayName": "Padde",
+        "steamID": 76561197996091473
+      },
+      "time": 199970
+    },
+    {
+      "player": {
+        "displayName": "WaffleNinja",
+        "steamID": 76561198060548488
+      },
+      "time": 200870
+    },
+    {
+      "player": {
+        "displayName": "Wehavecookies53",
+        "steamID": 76561198272890603
+      },
+      "time": 201000
+    },
+    {
+      "player": {
+        "displayName": "[MGI] LachenJager",
+        "steamID": 76561198022827655
+      },
+      "time": 202010
+    },
+    {
+      "player": {
+        "displayName": "Jos",
+        "steamID": 76561197991355968
+      },
+      "time": 202030
+    },
+    {
+      "player": {
+        "displayName": "Diamond Ultra",
+        "steamID": 76561198044925892
+      },
+      "time": 202060
+    },
+    {
+      "player": {
+        "displayName": "domi",
+        "steamID": 76561198103316789
+      },
+      "time": 202370
+    },
+    {
+      "player": {
+        "displayName": "TheButtCrumplr",
+        "steamID": 76561198090764771
+      },
+      "time": 202910
+    },
+    {
+      "player": {
+        "displayName": "Thrillhouse",
+        "steamID": 76561198049071050
+      },
+      "time": 203070
+    },
+    {
+      "player": {
+        "displayName": "[clickbait]",
+        "steamID": 76561198105520081
+      },
+      "time": 203410
+    },
+    {
+      "player": {
+        "displayName": "tager12",
+        "steamID": 76561198064897746
+      },
+      "time": 203450
+    },
+    {
+      "player": {
+        "displayName": "Hughesy",
+        "steamID": 76561197982051032
+      },
+      "time": 203620
+    },
+    {
+      "player": {
+        "displayName": "DecentM",
+        "steamID": 76561198261466300
+      },
+      "time": 203740
+    },
+    {
+      "player": {
+        "displayName": "Deimos",
+        "steamID": 76561198004624038
+      },
+      "time": 204270
+    },
+    {
+      "player": {
+        "displayName": "hooVersed",
+        "steamID": 76561197996197252
+      },
+      "time": 204410
+    },
+    {
+      "player": {
+        "displayName": "LPNoNameGame",
+        "steamID": 76561198123494575
+      },
+      "time": 204490
+    },
+    {
+      "player": {
+        "displayName": "Joni_Jazz",
+        "steamID": 76561198143712839
+      },
+      "time": 204720
+    },
+    {
+      "player": {
+        "displayName": "Tidal Seashell",
+        "steamID": 76561198149544848
+      },
+      "time": 204780
+    },
+    {
+      "player": {
+        "displayName": "MG.AnimalAutumn",
+        "steamID": 76561198042149597
+      },
+      "time": 204790
+    },
+    {
+      "player": {
+        "displayName": "Haru",
+        "steamID": 76561198025365993
+      },
+      "time": 204980
+    },
+    {
+      "player": {
+        "displayName": "PeggleFrank",
+        "steamID": 76561198018482908
+      },
+      "time": 205090
+    },
+    {
+      "player": {
+        "displayName": "Space Squid",
+        "steamID": 76561198271912109
+      },
+      "time": 205180
+    },
+    {
+      "player": {
+        "displayName": "dzhonrus",
+        "steamID": 76561198117180415
+      },
+      "time": 205860
+    },
+    {
+      "player": {
+        "displayName": "Zero",
+        "steamID": 76561197970944550
+      },
+      "time": 206070
+    },
+    {
+      "player": {
+        "displayName": "Concorde",
+        "steamID": 76561198079743502
+      },
+      "time": 206450
+    },
+    {
+      "player": {
+        "displayName": "Mornpho_istic",
+        "steamID": 76561198012972574
+      },
+      "time": 206610
+    },
+    {
+      "player": {
+        "displayName": "Elpis Lynx",
+        "steamID": 76561198042017436
+      },
+      "time": 206800
+    },
+    {
+      "player": {
+        "displayName": "Durandal",
+        "steamID": 76561198030026450
+      },
+      "time": 206860
+    },
+    {
+      "player": {
+        "displayName": "J0B00",
+        "steamID": 76561198039205933
+      },
+      "time": 206860
+    },
+    {
+      "player": {
+        "displayName": "Dume108",
+        "steamID": 76561198122394111
+      },
+      "time": 207090
+    },
+    {
+      "player": {
+        "displayName": "Nocturnal",
+        "steamID": 76561197970556918
+      },
+      "time": 207240
+    },
+    {
+      "player": {
+        "displayName": "frankzirk",
+        "steamID": 76561198134795361
+      },
+      "time": 207450
+    },
+    {
+      "player": {
+        "displayName": "Wolfe Procter",
+        "steamID": 76561197996810901
+      },
+      "time": 207980
+    },
+    {
+      "player": {
+        "displayName": "One Lovely Fellow",
+        "steamID": 76561198048402151
+      },
+      "time": 208160
+    },
+    {
+      "player": {
+        "displayName": "Ashraz",
+        "steamID": 76561197981494710
+      },
+      "time": 208480
+    },
+    {
+      "player": {
+        "displayName": "Wunderbar",
+        "steamID": 76561198022222606
+      },
+      "time": 208860
+    },
+    {
+      "player": {
+        "displayName": "Arling",
+        "steamID": 76561198053648182
+      },
+      "time": 208970
+    },
+    {
+      "player": {
+        "displayName": "Not picha corter 777",
+        "steamID": 76561198154050670
+      },
+      "time": 209240
+    },
+    {
+      "player": {
+        "displayName": "Ernester",
+        "steamID": 76561198066448868
+      },
+      "time": 209500
+    },
+    {
+      "player": {
+        "displayName": "TheStealthyDirk",
+        "steamID": 76561198194391228
+      },
+      "time": 209520
+    },
+    {
+      "player": {
+        "displayName": "Gaukur",
+        "steamID": 76561198072371105
+      },
+      "time": 209620
+    },
+    {
+      "player": {
+        "displayName": "Luna",
+        "steamID": 76561198141063670
+      },
+      "time": 209690
+    },
+    {
+      "player": {
+        "displayName": "StyleBug",
+        "steamID": 76561198097014430
+      },
+      "time": 210020
+    },
+    {
+      "player": {
+        "displayName": "delfiler",
+        "steamID": 76561197995180385
+      },
+      "time": 210130
+    },
+    {
+      "player": {
+        "displayName": "Dr. Feelgood",
+        "steamID": 76561198058564914
+      },
+      "time": 210730
+    },
+    {
+      "player": {
+        "displayName": "Cinnamon Roll",
+        "steamID": 76561198001225122
+      },
+      "time": 210850
+    },
+    {
+      "player": {
+        "displayName": "Kodred",
+        "steamID": 76561198035355450
+      },
+      "time": 210910
+    },
+    {
+      "player": {
+        "displayName": "Maebbhaw",
+        "steamID": 76561198288620696
+      },
+      "time": 211010
+    },
+    {
+      "player": {
+        "displayName": "Marrs",
+        "steamID": 76561198028146944
+      },
+      "time": 211100
+    },
+    {
+      "player": {
+        "displayName": "ScreenHero",
+        "steamID": 76561198083754803
+      },
+      "time": 211280
+    },
+    {
+      "player": {
+        "displayName": "WinterSun",
+        "steamID": 76561198403155993
+      },
+      "time": 211370
+    },
+    {
+      "player": {
+        "displayName": "gokens",
+        "steamID": 76561197975832723
+      },
+      "time": 211400
+    },
+    {
+      "player": {
+        "displayName": "Zed Epsilon",
+        "steamID": 76561198027849460
+      },
+      "time": 211510
+    },
+    {
+      "player": {
+        "displayName": "BallzieTheClown",
+        "steamID": 76561198058598332
+      },
+      "time": 211670
+    },
+    {
+      "player": {
+        "displayName": "Kiatsu",
+        "steamID": 76561198095491517
+      },
+      "time": 211940
+    },
+    {
+      "player": {
+        "displayName": "Sonnet",
+        "steamID": 76561197993706788
+      },
+      "time": 212090
+    },
+    {
+      "player": {
+        "displayName": "IIIlIIlIIIlII",
+        "steamID": 76561198000709716
+      },
+      "time": 213030
+    },
+    {
+      "player": {
+        "displayName": "Aemx",
+        "steamID": 76561197993798586
+      },
+      "time": 213060
+    },
+    {
+      "player": {
+        "displayName": "A H - H Y U C K",
+        "steamID": 76561198158253034
+      },
+      "time": 213190
+    },
+    {
+      "player": {
+        "displayName": "shadowjc32",
+        "steamID": 76561198061244272
+      },
+      "time": 213670
+    },
+    {
+      "player": {
+        "displayName": "mrq",
+        "steamID": 76561197960479503
+      },
+      "time": 213760
+    },
+    {
+      "player": {
+        "displayName": "Barnface",
+        "steamID": 76561198028194380
+      },
+      "time": 213830
+    },
+    {
+      "player": {
+        "displayName": "MindlessMinion",
+        "steamID": 76561198177191331
+      },
+      "time": 213970
+    },
+    {
+      "player": {
+        "displayName": "Neostar",
+        "steamID": 76561198044237379
+      },
+      "time": 214130
+    },
+    {
+      "player": {
+        "displayName": "Freakazoid",
+        "steamID": 76561198000393363
+      },
+      "time": 214140
+    },
+    {
+      "player": {
+        "displayName": "GEK Vengeful",
+        "steamID": 76561198062783893
+      },
+      "time": 214650
+    },
+    {
+      "player": {
+        "displayName": "Chrestomanci09",
+        "steamID": 76561198010619258
+      },
+      "time": 214690
+    },
+    {
+      "player": {
+        "displayName": "Neon_Lights",
+        "steamID": 76561198064775747
+      },
+      "time": 214980
+    },
+    {
+      "player": {
+        "displayName": "OOR | Lvyathan",
+        "steamID": 76561198062241328
+      },
+      "time": 215430
+    },
+    {
+      "player": {
+        "displayName": "Saxxy",
+        "steamID": 76561198000404350
+      },
+      "time": 215640
+    },
+    {
+      "player": {
+        "displayName": "Derrick1188",
+        "steamID": 76561198178492390
+      },
+      "time": 215730
+    },
+    {
+      "player": {
+        "displayName": "Switches",
+        "steamID": 76561198039892998
+      },
+      "time": 215770
+    },
+    {
+      "player": {
+        "displayName": "CurryX",
+        "steamID": 76561198041106475
+      },
+      "time": 215950
+    },
+    {
+      "player": {
+        "displayName": "GAMERGGGIIIIIIIIIRRRRRRRLLLLLLLL",
+        "steamID": 76561198045637739
+      },
+      "time": 216070
+    },
+    {
+      "player": {
+        "displayName": "lordflamewing",
+        "steamID": 76561198060392469
+      },
+      "time": 216160
+    },
+    {
+      "player": {
+        "displayName": "Curious Fish",
+        "steamID": 76561197971901671
+      },
+      "time": 216730
+    },
+    {
+      "player": {
+        "displayName": "Bracer98",
+        "steamID": 76561198364908520
+      },
+      "time": 216810
+    },
+    {
+      "player": {
+        "displayName": "White Pussy Eater",
+        "steamID": 76561198208816537
+      },
+      "time": 217020
+    },
+    {
+      "player": {
+        "displayName": "Furfag McGee",
+        "steamID": 76561198045135128
+      },
+      "time": 217540
+    },
+    {
+      "player": {
+        "displayName": "fellcaphot",
+        "steamID": 76561198176879569
+      },
+      "time": 217580
+    },
+    {
+      "player": {
+        "displayName": "CuddleStrike",
+        "steamID": 76561198001373228
+      },
+      "time": 217760
+    },
+    {
+      "player": {
+        "displayName": "SkullDice",
+        "steamID": 76561198089792712
+      },
+      "time": 217940
+    },
+    {
+      "player": {
+        "displayName": "TheManOffline",
+        "steamID": 76561198066247505
+      },
+      "time": 218230
+    },
+    {
+      "player": {
+        "displayName": "Cute @_@",
+        "steamID": 76561198126487540
+      },
+      "time": 218380
+    },
+    {
+      "player": {
+        "displayName": "grzhan",
+        "steamID": 76561198010618639
+      },
+      "time": 219370
+    },
+    {
+      "player": {
+        "displayName": "kio5853",
+        "steamID": 76561198068176844
+      },
+      "time": 219410
+    },
+    {
+      "player": {
+        "displayName": "Abraham Lincoln",
+        "steamID": 76561198138630203
+      },
+      "time": 219920
+    },
+    {
+      "player": {
+        "displayName": "Storey",
+        "steamID": 76561198038367090
+      },
+      "time": 220430
+    },
+    {
+      "player": {
+        "displayName": "locel0523",
+        "steamID": 76561198176249375
+      },
+      "time": 220470
+    },
+    {
+      "player": {
+        "displayName": "MCB | Liquid MuggedByaCoffeBean",
+        "steamID": 76561198096251661
+      },
+      "time": 220940
+    },
+    {
+      "player": {
+        "displayName": "Kira",
+        "steamID": 76561198079341891
+      },
+      "time": 221010
+    },
+    {
+      "player": {
+        "displayName": "Xploding Nipplz",
+        "steamID": 76561198007352720
+      },
+      "time": 221230
+    },
+    {
+      "player": {
+        "displayName": "Dalaynx",
+        "steamID": 76561198049238840
+      },
+      "time": 221670
+    },
+    {
+      "player": {
+        "displayName": "Dinosaurs(1991) is best show",
+        "steamID": 76561198041109881
+      },
+      "time": 221970
+    },
+    {
+      "player": {
+        "displayName": "Master Green Fox",
+        "steamID": 76561198070643083
+      },
+      "time": 222250
+    },
+    {
+      "player": {
+        "displayName": "Blank",
+        "steamID": 76561198172733475
+      },
+      "time": 222510
+    },
+    {
+      "player": {
+        "displayName": "Con nor",
+        "steamID": 76561198043081163
+      },
+      "time": 222700
+    },
+    {
+      "player": {
+        "displayName": "БаТя_КоТиК-cheater",
+        "steamID": 76561198372572389
+      },
+      "time": 222730
+    },
+    {
+      "player": {
+        "displayName": "PapyChampy",
+        "steamID": 76561197993451727
+      },
+      "time": 222910
+    },
+    {
+      "player": {
+        "displayName": "PAX G19",
+        "steamID": 76561197983529384
+      },
+      "time": 223300
+    },
+    {
+      "player": {
+        "displayName": "Gordon_Fan",
+        "steamID": 76561198236145494
+      },
+      "time": 223410
+    },
+    {
+      "player": {
+        "displayName": "ITKOTORI",
+        "steamID": 76561198140233040
+      },
+      "time": 223470
+    },
+    {
+      "player": {
+        "displayName": "Jay_Emanuel",
+        "steamID": 76561198344007439
+      },
+      "time": 224160
+    },
+    {
+      "player": {
+        "displayName": "k.m.persona",
+        "steamID": 76561198250546842
+      },
+      "time": 224660
+    },
+    {
+      "player": {
+        "displayName": "Sometimes A Cat Dad",
+        "steamID": 76561198025194089
+      },
+      "time": 224670
+    },
+    {
+      "player": {
+        "displayName": "M.D34D",
+        "steamID": 76561198208273693
+      },
+      "time": 224820
+    },
+    {
+      "player": {
+        "displayName": "AndyStrom",
+        "steamID": 76561198067861999
+      },
+      "time": 224840
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 224880
+    },
+    {
+      "player": {
+        "displayName": "SERAVEE",
+        "steamID": 76561198110888272
+      },
+      "time": 225000
+    },
+    {
+      "player": {
+        "displayName": "Kin Lunah Ytreggah",
+        "steamID": 76561198145958038
+      },
+      "time": 225000
+    },
+    {
+      "player": {
+        "displayName": "Anexor",
+        "steamID": 76561198074854189
+      },
+      "time": 225270
+    },
+    {
+      "player": {
+        "displayName": "keeggz",
+        "steamID": 76561198042711600
+      },
+      "time": 225410
+    },
+    {
+      "player": {
+        "displayName": "Lethal Cheeseburger",
+        "steamID": 76561198111486803
+      },
+      "time": 225520
+    },
+    {
+      "player": {
+        "displayName": "Saber Hayashi",
+        "steamID": 76561197965302566
+      },
+      "time": 225550
+    },
+    {
+      "player": {
+        "displayName": "Kalimbato",
+        "steamID": 76561198345168521
+      },
+      "time": 225920
+    },
+    {
+      "player": {
+        "displayName": "Lunchism",
+        "steamID": 76561198052002649
+      },
+      "time": 226030
+    },
+    {
+      "player": {
+        "displayName": "Slim Cognito",
+        "steamID": 76561198005425424
+      },
+      "time": 226150
+    },
+    {
+      "player": {
+        "displayName": "Alexkurts",
+        "steamID": 76561198117488615
+      },
+      "time": 226160
+    },
+    {
+      "player": {
+        "displayName": "On the List",
+        "steamID": 76561197996356287
+      },
+      "time": 226720
+    },
+    {
+      "player": {
+        "displayName": "cocob4",
+        "steamID": 76561198055461246
+      },
+      "time": 227020
+    },
+    {
+      "player": {
+        "displayName": "BearyPunny",
+        "steamID": 76561198013837802
+      },
+      "time": 227380
+    },
+    {
+      "player": {
+        "displayName": "Waffle Bombs",
+        "steamID": 76561197996503861
+      },
+      "time": 227430
+    },
+    {
+      "player": {
+        "displayName": "Apok",
+        "steamID": 76561198051883607
+      },
+      "time": 227530
+    },
+    {
+      "player": {
+        "displayName": "Rahkshi",
+        "steamID": 76561197987764832
+      },
+      "time": 228270
+    },
+    {
+      "player": {
+        "displayName": "[BFAA]NiteRiderEVO",
+        "steamID": 76561198022349322
+      },
+      "time": 228510
+    },
+    {
+      "player": {
+        "displayName": "El Tortuga",
+        "steamID": 76561198094048519
+      },
+      "time": 228720
+    },
+    {
+      "player": {
+        "displayName": "233Isaac",
+        "steamID": 76561198253676068
+      },
+      "time": 229790
+    },
+    {
+      "player": {
+        "displayName": "Mini_T",
+        "steamID": 76561198138098690
+      },
+      "time": 229990
+    },
+    {
+      "player": {
+        "displayName": "Nietzsche's Mustache",
+        "steamID": 76561197992691280
+      },
+      "time": 230540
+    },
+    {
+      "player": {
+        "displayName": "soggy triscuit",
+        "steamID": 76561198000341584
+      },
+      "time": 230660
+    },
+    {
+      "player": {
+        "displayName": "Dr.Chang",
+        "steamID": 76561198129624433
+      },
+      "time": 230700
+    },
+    {
+      "player": {
+        "displayName": "Yapless",
+        "steamID": 76561198011397820
+      },
+      "time": 231380
+    },
+    {
+      "player": {
+        "displayName": "[KGB]Jerkel",
+        "steamID": 76561198008137663
+      },
+      "time": 231570
+    },
+    {
+      "player": {
+        "displayName": "Vikeo",
+        "steamID": 76561198003662722
+      },
+      "time": 231700
+    },
+    {
+      "player": {
+        "displayName": "dahuko",
+        "steamID": 76561198043081622
+      },
+      "time": 232370
+    },
+    {
+      "player": {
+        "displayName": "2d Lt CUDDLEBOBBERS",
+        "steamID": 76561198005061037
+      },
+      "time": 232530
+    },
+    {
+      "player": {
+        "displayName": "Finsterdrache",
+        "steamID": 76561198074995454
+      },
+      "time": 232680
+    },
+    {
+      "player": {
+        "displayName": "✂👌☜✌☼✂",
+        "steamID": 76561198077999273
+      },
+      "time": 232790
+    },
+    {
+      "player": {
+        "displayName": "S2",
+        "steamID": 76561198319263093
+      },
+      "time": 232810
+    },
+    {
+      "player": {
+        "displayName": "boujore",
+        "steamID": 76561198025889085
+      },
+      "time": 232900
+    },
+    {
+      "player": {
+        "displayName": "Julian McCloud",
+        "steamID": 76561198054465313
+      },
+      "time": 233070
+    },
+    {
+      "player": {
+        "displayName": "NamaTheExplorer",
+        "steamID": 76561198273436998
+      },
+      "time": 233310
+    },
+    {
+      "player": {
+        "displayName": "StolenSouls",
+        "steamID": 76561198083623068
+      },
+      "time": 233630
+    },
+    {
+      "player": {
+        "displayName": "Mr.Demosign",
+        "steamID": 76561198055704759
+      },
+      "time": 233830
+    },
+    {
+      "player": {
+        "displayName": "Genosse des Eides",
+        "steamID": 76561198049470857
+      },
+      "time": 233840
+    },
+    {
+      "player": {
+        "displayName": "Zeykor",
+        "steamID": 76561198202465652
+      },
+      "time": 233900
+    },
+    {
+      "player": {
+        "displayName": "Gainite",
+        "steamID": 76561198092916517
+      },
+      "time": 233940
+    },
+    {
+      "player": {
+        "displayName": "Generic anime girl avatar",
+        "steamID": 76561198050567264
+      },
+      "time": 234260
+    },
+    {
+      "player": {
+        "displayName": "ÜberFritte",
+        "steamID": 76561198077211465
+      },
+      "time": 234500
+    },
+    {
+      "player": {
+        "displayName": "mdkeller7",
+        "steamID": 76561198354996247
+      },
+      "time": 234720
+    },
+    {
+      "player": {
+        "displayName": "Akantha",
+        "steamID": 76561198065511851
+      },
+      "time": 235130
+    },
+    {
+      "player": {
+        "displayName": "BR BR BR",
+        "steamID": 76561198006793429
+      },
+      "time": 235150
+    },
+    {
+      "player": {
+        "displayName": "Marquette88",
+        "steamID": 76561197994405264
+      },
+      "time": 235360
+    },
+    {
+      "player": {
+        "displayName": "PartTimeCanadian",
+        "steamID": 76561198044310979
+      },
+      "time": 235480
+    },
+    {
+      "player": {
+        "displayName": "Kharma",
+        "steamID": 76561197964959649
+      },
+      "time": 236120
+    },
+    {
+      "player": {
+        "displayName": "Sparrow",
+        "steamID": 76561198092439266
+      },
+      "time": 236740
+    },
+    {
+      "player": {
+        "displayName": "Dollar Menu Jesus",
+        "steamID": 76561198006601225
+      },
+      "time": 237070
+    },
+    {
+      "player": {
+        "displayName": "de_ok",
+        "steamID": 76561198096109574
+      },
+      "time": 237660
+    },
+    {
+      "player": {
+        "displayName": "Gorda",
+        "steamID": 76561198063827506
+      },
+      "time": 237980
+    },
+    {
+      "player": {
+        "displayName": "Limes & mcLarens",
+        "steamID": 76561198100834001
+      },
+      "time": 238230
+    },
+    {
+      "player": {
+        "displayName": "Askdust",
+        "steamID": 76561198115558918
+      },
+      "time": 238360
+    },
+    {
+      "player": {
+        "displayName": "c4binfever",
+        "steamID": 76561198003537640
+      },
+      "time": 239530
+    },
+    {
+      "player": {
+        "displayName": "LeCangrejo",
+        "steamID": 76561198093338574
+      },
+      "time": 239690
+    },
+    {
+      "player": {
+        "displayName": "iltermon",
+        "steamID": 76561198182398355
+      },
+      "time": 239740
+    },
+    {
+      "player": {
+        "displayName": "KittyCatVegas",
+        "steamID": 76561198110848321
+      },
+      "time": 240260
+    },
+    {
+      "player": {
+        "displayName": "Papa Thrash",
+        "steamID": 76561198053831555
+      },
+      "time": 240790
+    },
+    {
+      "player": {
+        "displayName": "Nardak",
+        "steamID": 76561198109389014
+      },
+      "time": 240900
+    },
+    {
+      "player": {
+        "displayName": "Kantei",
+        "steamID": 76561198041126106
+      },
+      "time": 240990
+    },
+    {
+      "player": {
+        "displayName": "Krumix",
+        "steamID": 76561198004482820
+      },
+      "time": 241100
+    },
+    {
+      "player": {
+        "displayName": "7A.Calá7",
+        "steamID": 76561198031033500
+      },
+      "time": 241440
+    },
+    {
+      "player": {
+        "displayName": "Nitrocide17",
+        "steamID": 76561198064233287
+      },
+      "time": 241980
+    },
+    {
+      "player": {
+        "displayName": "Wally_West",
+        "steamID": 76561198112666544
+      },
+      "time": 242030
+    },
+    {
+      "player": {
+        "displayName": "ZanySpaceman",
+        "steamID": 76561198245745476
+      },
+      "time": 242530
+    },
+    {
+      "player": {
+        "displayName": "Tsurugin",
+        "steamID": 76561198247836570
+      },
+      "time": 242560
+    },
+    {
+      "player": {
+        "displayName": "j4c0bk",
+        "steamID": 76561198060477656
+      },
+      "time": 244440
+    },
+    {
+      "player": {
+        "displayName": "D-Money",
+        "steamID": 76561198132677020
+      },
+      "time": 244470
+    },
+    {
+      "player": {
+        "displayName": "ARitz Cracker",
+        "steamID": 76561197997486016
+      },
+      "time": 244850
+    },
+    {
+      "player": {
+        "displayName": "Remote_Croak",
+        "steamID": 76561198030800787
+      },
+      "time": 245360
+    },
+    {
+      "player": {
+        "displayName": "J26",
+        "steamID": 76561197983530964
+      },
+      "time": 245700
+    },
+    {
+      "player": {
+        "displayName": "Waffles",
+        "steamID": 76561198108788482
+      },
+      "time": 245930
+    },
+    {
+      "player": {
+        "displayName": "NothinButAThing",
+        "steamID": 76561198071209520
+      },
+      "time": 246260
+    },
+    {
+      "player": {
+        "displayName": "MatteDefra",
+        "steamID": 76561198130661638
+      },
+      "time": 246920
+    },
+    {
+      "player": {
+        "displayName": "Pulserator_",
+        "steamID": 76561198101850660
+      },
+      "time": 246980
+    },
+    {
+      "player": {
+        "displayName": "twinvein",
+        "steamID": 76561197961822353
+      },
+      "time": 247840
+    },
+    {
+      "player": {
+        "displayName": "DJHobbit",
+        "steamID": 76561198045973488
+      },
+      "time": 248170
+    },
+    {
+      "player": {
+        "displayName": "cakeu",
+        "steamID": 76561198069303630
+      },
+      "time": 248860
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 249510
+    },
+    {
+      "player": {
+        "displayName": "SirOwnsU",
+        "steamID": 76561198029448801
+      },
+      "time": 249530
+    },
+    {
+      "player": {
+        "displayName": "Ragnor",
+        "steamID": 76561198133809750
+      },
+      "time": 249580
+    },
+    {
+      "player": {
+        "displayName": "Invader",
+        "steamID": 76561198014222185
+      },
+      "time": 249670
+    },
+    {
+      "player": {
+        "displayName": "Pirate",
+        "steamID": 76561198356374110
+      },
+      "time": 250410
+    },
+    {
+      "player": {
+        "displayName": "oabrahan",
+        "steamID": 76561198065755318
+      },
+      "time": 251070
+    },
+    {
+      "player": {
+        "displayName": "AlexSmith",
+        "steamID": 76561197986348556
+      },
+      "time": 251270
+    },
+    {
+      "player": {
+        "displayName": "Muad'Dib",
+        "steamID": 76561198396982814
+      },
+      "time": 251950
+    },
+    {
+      "player": {
+        "displayName": "MADMOTH",
+        "steamID": 76561198043786178
+      },
+      "time": 252090
+    },
+    {
+      "player": {
+        "displayName": "Godistjuven",
+        "steamID": 76561198002992855
+      },
+      "time": 252140
+    },
+    {
+      "player": {
+        "displayName": "Heavens Inc. ♫♪",
+        "steamID": 76561197994733360
+      },
+      "time": 252900
+    },
+    {
+      "player": {
+        "displayName": "Jun Wei Goh",
+        "steamID": 76561198101547174
+      },
+      "time": 253430
+    },
+    {
+      "player": {
+        "displayName": "Leaf_It",
+        "steamID": 76561198018342862
+      },
+      "time": 253700
+    },
+    {
+      "player": {
+        "displayName": "xXxD4rK_S4SUKE_SH4DOW_DU_69xXx",
+        "steamID": 76561198148925477
+      },
+      "time": 254880
+    },
+    {
+      "player": {
+        "displayName": "hybrid",
+        "steamID": 76561198091736657
+      },
+      "time": 255300
+    },
+    {
+      "player": {
+        "displayName": "edelstall",
+        "steamID": 76561198133682154
+      },
+      "time": 255390
+    },
+    {
+      "player": {
+        "displayName": "[DMND] Robot Dad",
+        "steamID": 76561198133079610
+      },
+      "time": 255570
+    },
+    {
+      "player": {
+        "displayName": "SnakeTH",
+        "steamID": 76561197997262713
+      },
+      "time": 256290
+    },
+    {
+      "player": {
+        "displayName": "D2Disciple",
+        "steamID": 76561197997425579
+      },
+      "time": 257240
+    },
+    {
+      "player": {
+        "displayName": "MaverikMS2001",
+        "steamID": 76561198043100808
+      },
+      "time": 257410
+    },
+    {
+      "player": {
+        "displayName": "Local",
+        "steamID": 76561198154396865
+      },
+      "time": 258690
+    },
+    {
+      "player": {
+        "displayName": "暁 Pain",
+        "steamID": 76561198139395117
+      },
+      "time": 260920
+    },
+    {
+      "player": {
+        "displayName": "Ninjatroxx",
+        "steamID": 76561198043989927
+      },
+      "time": 261180
+    },
+    {
+      "player": {
+        "displayName": "PromE",
+        "steamID": 76561198017725391
+      },
+      "time": 261240
+    },
+    {
+      "player": {
+        "displayName": "Gabbo.MB",
+        "steamID": 76561198282270872
+      },
+      "time": 261660
+    },
+    {
+      "player": {
+        "displayName": "popeye",
+        "steamID": 76561198063387928
+      },
+      "time": 261700
+    },
+    {
+      "player": {
+        "displayName": "Hazen",
+        "steamID": 76561198149006737
+      },
+      "time": 261890
+    },
+    {
+      "player": {
+        "displayName": "[OG] Soul",
+        "steamID": 76561198060196560
+      },
+      "time": 262220
+    },
+    {
+      "player": {
+        "displayName": "sirprizedoften",
+        "steamID": 76561198084404759
+      },
+      "time": 262670
+    },
+    {
+      "player": {
+        "displayName": "Nelsao",
+        "steamID": 76561197984161483
+      },
+      "time": 262740
+    },
+    {
+      "player": {
+        "displayName": "TheRobsters",
+        "steamID": 76561198070008058
+      },
+      "time": 263360
+    },
+    {
+      "player": {
+        "displayName": "Purple Drake",
+        "steamID": 76561198008935254
+      },
+      "time": 266490
+    },
+    {
+      "player": {
+        "displayName": "永遠の猫",
+        "steamID": 76561198066487363
+      },
+      "time": 266690
+    },
+    {
+      "player": {
+        "displayName": "imaginarytoby",
+        "steamID": 76561198086882839
+      },
+      "time": 266880
+    },
+    {
+      "player": {
+        "displayName": "Carnifexseth",
+        "steamID": 76561198080574481
+      },
+      "time": 266960
+    },
+    {
+      "player": {
+        "displayName": "Corrupted",
+        "steamID": 76561198202498890
+      },
+      "time": 267800
+    },
+    {
+      "player": {
+        "displayName": "Amutyan",
+        "steamID": 76561198086072805
+      },
+      "time": 269190
+    },
+    {
+      "player": {
+        "displayName": "Kinji",
+        "steamID": 76561198089109117
+      },
+      "time": 272940
+    },
+    {
+      "player": {
+        "displayName": "CamLewa",
+        "steamID": 76561198305655691
+      },
+      "time": 275170
+    },
+    {
+      "player": {
+        "displayName": "Kowai Yume/怖い夢",
+        "steamID": 76561198065033360
+      },
+      "time": 275350
+    },
+    {
+      "player": {
+        "displayName": "SLENDERMAN",
+        "steamID": 76561198106558021
+      },
+      "time": 275670
+    },
+    {
+      "player": {
+        "displayName": "DocV3",
+        "steamID": 76561198273593533
+      },
+      "time": 276390
+    },
+    {
+      "player": {
+        "displayName": "closedlearner32",
+        "steamID": 76561198163367581
+      },
+      "time": 278250
+    },
+    {
+      "player": {
+        "displayName": "%NaN%",
+        "steamID": 76561198071098413
+      },
+      "time": 278440
+    },
+    {
+      "player": {
+        "displayName": "Miniturk",
+        "steamID": 76561198059865964
+      },
+      "time": 278540
+    },
+    {
+      "player": {
+        "displayName": "OK",
+        "steamID": 76561198044630891
+      },
+      "time": 278730
+    },
+    {
+      "player": {
+        "displayName": "meme_sause",
+        "steamID": 76561198276970818
+      },
+      "time": 278970
+    },
+    {
+      "player": {
+        "displayName": "splob",
+        "steamID": 76561198040190473
+      },
+      "time": 279170
+    },
+    {
+      "player": {
+        "displayName": "The Butthole Bandit",
+        "steamID": 76561198077911475
+      },
+      "time": 280510
+    },
+    {
+      "player": {
+        "displayName": "Stfunovitchz",
+        "steamID": 76561198065042951
+      },
+      "time": 284390
+    },
+    {
+      "player": {
+        "displayName": "CookieLinux",
+        "steamID": 76561198209103989
+      },
+      "time": 284600
+    },
+    {
+      "player": {
+        "displayName": "And4713",
+        "steamID": 76561198017964317
+      },
+      "time": 285350
+    },
+    {
+      "player": {
+        "displayName": "Just1ce",
+        "steamID": 76561198208631027
+      },
+      "time": 286420
+    },
+    {
+      "player": {
+        "displayName": "CS1o",
+        "steamID": 76561198037663166
+      },
+      "time": 286700
+    },
+    {
+      "player": {
+        "displayName": "Haktor",
+        "steamID": 76561198086421217
+      },
+      "time": 287160
+    },
+    {
+      "player": {
+        "displayName": "Mugi!!!",
+        "steamID": 76561198154365015
+      },
+      "time": 287850
+    },
+    {
+      "player": {
+        "displayName": "PowerUser",
+        "steamID": 76561198029796285
+      },
+      "time": 291680
+    },
+    {
+      "player": {
+        "displayName": "yegor.zenkov",
+        "steamID": 76561198107383301
+      },
+      "time": 292160
+    },
+    {
+      "player": {
+        "displayName": "blaze",
+        "steamID": 76561198107247449
+      },
+      "time": 293010
+    },
+    {
+      "player": {
+        "displayName": "aDGa | Phleppse",
+        "steamID": 76561198047882285
+      },
+      "time": 295180
+    },
+    {
+      "player": {
+        "displayName": "Lee",
+        "steamID": 76561198060015513
+      },
+      "time": 296170
+    },
+    {
+      "player": {
+        "displayName": "Ruben",
+        "steamID": 76561198217665463
+      },
+      "time": 298250
+    },
+    {
+      "player": {
+        "displayName": "leXus",
+        "steamID": 76561198132370047
+      },
+      "time": 298470
+    },
+    {
+      "player": {
+        "displayName": "FuckYouILikeTea",
+        "steamID": 76561198151117537
+      },
+      "time": 298490
+    },
+    {
+      "player": {
+        "displayName": "Geckatan",
+        "steamID": 76561198053488071
+      },
+      "time": 298530
+    },
+    {
+      "player": {
+        "displayName": "DankShroud420",
+        "steamID": 76561198197961675
+      },
+      "time": 299840
+    },
+    {
+      "player": {
+        "displayName": "Ima Computer",
+        "steamID": 76561198075412622
+      },
+      "time": 300210
+    },
+    {
+      "player": {
+        "displayName": "Ice Dragonhawk",
+        "steamID": 76561198025264225
+      },
+      "time": 301740
+    },
+    {
+      "player": {
+        "displayName": "redvandyke",
+        "steamID": 76561198288835685
+      },
+      "time": 302380
+    },
+    {
+      "player": {
+        "displayName": "Monkeybug34",
+        "steamID": 76561198040397362
+      },
+      "time": 302520
+    },
+    {
+      "player": {
+        "displayName": "Raen",
+        "steamID": 76561198077348744
+      },
+      "time": 304270
+    },
+    {
+      "player": {
+        "displayName": "Will",
+        "steamID": 76561198275225212
+      },
+      "time": 304750
+    },
+    {
+      "player": {
+        "displayName": "Zamiel052",
+        "steamID": 76561198277839801
+      },
+      "time": 304910
+    },
+    {
+      "player": {
+        "displayName": "Rinnegan214",
+        "steamID": 76561198087602860
+      },
+      "time": 307050
+    },
+    {
+      "player": {
+        "displayName": "Januz",
+        "steamID": 76561198025005986
+      },
+      "time": 310320
+    },
+    {
+      "player": {
+        "displayName": "Yhtomit",
+        "steamID": 76561198305238573
+      },
+      "time": 311010
+    },
+    {
+      "player": {
+        "displayName": "jmec6",
+        "steamID": 76561198403155597
+      },
+      "time": 311340
+    },
+    {
+      "player": {
+        "displayName": "Norc VI",
+        "steamID": 76561198047649948
+      },
+      "time": 312620
+    },
+    {
+      "player": {
+        "displayName": "Dances With Wombats",
+        "steamID": 76561197969283485
+      },
+      "time": 312800
+    },
+    {
+      "player": {
+        "displayName": "Lo-Lo, the Wireless Owl",
+        "steamID": 76561198086484625
+      },
+      "time": 314890
+    },
+    {
+      "player": {
+        "displayName": "Tremolo Banshee",
+        "steamID": 76561198132065943
+      },
+      "time": 315530
+    },
+    {
+      "player": {
+        "displayName": "tommischob",
+        "steamID": 76561198134161300
+      },
+      "time": 317360
+    },
+    {
+      "player": {
+        "displayName": "Yone",
+        "steamID": 76561198103005327
+      },
+      "time": 319230
+    },
+    {
+      "player": {
+        "displayName": "Oldman",
+        "steamID": 76561198052647673
+      },
+      "time": 323050
+    },
+    {
+      "player": {
+        "displayName": "TaekjoZ LFT",
+        "steamID": 76561198144730760
+      },
+      "time": 323090
+    },
+    {
+      "player": {
+        "displayName": "halohotrod",
+        "steamID": 76561198086073464
+      },
+      "time": 324580
+    },
+    {
+      "player": {
+        "displayName": "ldsdjdj",
+        "steamID": 76561198353314528
+      },
+      "time": 324690
+    },
+    {
+      "player": {
+        "displayName": "DarkWolper",
+        "steamID": 76561198053833908
+      },
+      "time": 324790
+    },
+    {
+      "player": {
+        "displayName": "Lord Zwergula der Schreckliche",
+        "steamID": 76561198163427230
+      },
+      "time": 326410
+    },
+    {
+      "player": {
+        "displayName": "冬瓜茶🍵",
+        "steamID": 76561198310246079
+      },
+      "time": 328990
+    },
+    {
+      "player": {
+        "displayName": "George Kush",
+        "steamID": 76561198009905262
+      },
+      "time": 329000
+    },
+    {
+      "player": {
+        "displayName": "Centurion",
+        "steamID": 76561198000957894
+      },
+      "time": 329120
+    },
+    {
+      "player": {
+        "displayName": "omegaspark",
+        "steamID": 76561198068253757
+      },
+      "time": 331820
+    },
+    {
+      "player": {
+        "displayName": "Nove",
+        "steamID": 76561198168401703
+      },
+      "time": 334020
+    },
+    {
+      "player": {
+        "displayName": "Kaspar Orange",
+        "steamID": 76561198098586367
+      },
+      "time": 338520
+    },
+    {
+      "player": {
+        "displayName": "ANSWER - KOLLIBRI",
+        "steamID": 76561198133154647
+      },
+      "time": 342400
+    },
+    {
+      "player": {
+        "displayName": "Toothpaste",
+        "steamID": 76561198120597552
+      },
+      "time": 347710
+    },
+    {
+      "player": {
+        "displayName": "UnFNafKitty",
+        "steamID": 76561198291484342
+      },
+      "time": 354730
+    },
+    {
+      "player": {
+        "displayName": "ThunderCannon",
+        "steamID": 76561198360863172
+      },
+      "time": 360590
+    },
+    {
+      "player": {
+        "displayName": "Knight BB",
+        "steamID": 76561198038342409
+      },
+      "time": 362470
+    },
+    {
+      "player": {
+        "displayName": "5.Y.3.T.",
+        "steamID": 76561198192923191
+      },
+      "time": 366570
+    },
+    {
+      "player": {
+        "displayName": "Petrichor",
+        "steamID": 76561198077889843
+      },
+      "time": 368580
+    },
+    {
+      "player": {
+        "displayName": "Nubbel",
+        "steamID": 76561197973930566
+      },
+      "time": 372380
+    },
+    {
+      "player": {
+        "displayName": "M c C u C K",
+        "steamID": 76561198795660261
+      },
+      "time": 373090
+    },
+    {
+      "player": {
+        "displayName": "Exellus",
+        "steamID": 76561198006127995
+      },
+      "time": 373970
+    },
+    {
+      "player": {
+        "displayName": "Cr0wGrl",
+        "steamID": 76561198347830708
+      },
+      "time": 374240
+    },
+    {
+      "player": {
+        "displayName": "MrT00t",
+        "steamID": 76561198179763205
+      },
+      "time": 382740
+    },
+    {
+      "player": {
+        "displayName": "Max Is Back",
+        "steamID": 76561198166230474
+      },
+      "time": 383320
+    },
+    {
+      "player": {
+        "displayName": "chazmorris",
+        "steamID": 76561198092235144
+      },
+      "time": 383980
+    },
+    {
+      "player": {
+        "displayName": "nekto119",
+        "steamID": 76561198038999775
+      },
+      "time": 384260
+    },
+    {
+      "player": {
+        "displayName": "Shadical",
+        "steamID": 76561198313022216
+      },
+      "time": 391990
+    },
+    {
+      "player": {
+        "displayName": "AeonVita",
+        "steamID": 76561198018512839
+      },
+      "time": 392150
+    },
+    {
+      "player": {
+        "displayName": "deppy",
+        "steamID": 76561198138916306
+      },
+      "time": 414820
+    },
+    {
+      "player": {
+        "displayName": "Snacrafice",
+        "steamID": 76561198099704300
+      },
+      "time": 418090
+    },
+    {
+      "player": {
+        "displayName": "Professor Sabmerk",
+        "steamID": 76561198079767142
+      },
+      "time": 421500
+    },
+    {
+      "player": {
+        "displayName": "iRuthl3ss",
+        "steamID": 76561198018927937
+      },
+      "time": 423910
+    },
+    {
+      "player": {
+        "displayName": "MrTopHat",
+        "steamID": 76561198255417728
+      },
+      "time": 436930
+    },
+    {
+      "player": {
+        "displayName": "Papa John",
+        "steamID": 76561198105510619
+      },
+      "time": 446210
+    },
+    {
+      "player": {
+        "displayName": "TonksM",
+        "steamID": 76561198029095915
+      },
+      "time": 446890
+    },
+    {
+      "player": {
+        "displayName": "majesticspace",
+        "steamID": 76561198125945012
+      },
+      "time": 472940
+    },
+    {
+      "player": {
+        "displayName": "362908152",
+        "steamID": 76561198258142875
+      },
+      "time": 475690
+    },
+    {
+      "player": {
+        "displayName": "[NASA].OR.アナキン ΣσΩ²",
+        "steamID": 76561198078567638
+      },
+      "time": 481700
+    },
+    {
+      "player": {
+        "displayName": "DaedraPlease",
+        "steamID": 76561197993765169
+      },
+      "time": 485220
+    },
+    {
+      "player": {
+        "displayName": "Koldheartz",
+        "steamID": 76561198327943993
+      },
+      "time": 509740
+    },
+    {
+      "player": {
+        "displayName": "Vortex",
+        "steamID": 76561198318583241
+      },
+      "time": 580450
+    },
+    {
+      "player": {
+        "displayName": "Ninebr34ker",
+        "steamID": 76561197984590750
+      },
+      "time": 581340
+    },
+    {
+      "player": {
+        "displayName": "nickcalum",
+        "steamID": 76561198049508776
+      },
+      "time": 586760
+    },
+    {
+      "player": {
+        "displayName": "Fluff",
+        "steamID": 76561198324582960
+      },
+      "time": 746880
+    },
+    {
+      "player": {
+        "displayName": "Marra",
+        "steamID": 76561198084045404
+      },
+      "time": 1081150
+    }
+  ]
+}

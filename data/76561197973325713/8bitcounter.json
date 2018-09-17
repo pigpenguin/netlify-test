@@ -1,0 +1,42 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561197973325713
+  },
+  "displayName": "a counter",
+  "id": 1508189168,
+  "description": "demonstration of one of my 8 bit counters/memory, breaks if add and subtract are alternated too fast, hold at number 192 to end the map.\r\n\r\nvisualisation: there are 2 groups of triggerboxes, one starts in a collapsed state (subtract), the other expanded (a",
+  "fileName": "8bitcounter",
+  "upvotes": 4,
+  "downvotes": 1,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Sperzieb00n",
+        "steamID": 76561197973325713
+      },
+      "time": 17540
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 24820
+    },
+    {
+      "player": {
+        "displayName": "robonack",
+        "steamID": 76561198055784509
+      },
+      "time": 110110
+    },
+    {
+      "player": {
+        "displayName": "VenomousCreature",
+        "steamID": 76561198073778678
+      },
+      "time": 290860
+    }
+  ]
+}

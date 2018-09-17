@@ -1,0 +1,42 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561197973325713
+  },
+  "displayName": "Weapon test 2",
+  "id": 1515145298,
+  "description": "testing of an improved animator based weapon, needs to be picked up again after respawn, breaks in local multiplayer.\r\n\r\ndestroy all 15 targets to end the map",
+  "fileName": "weapons3",
+  "upvotes": 2,
+  "downvotes": 0,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Sperzieb00n",
+        "steamID": 76561197973325713
+      },
+      "time": 30510
+    },
+    {
+      "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 50600
+    },
+    {
+      "player": {
+        "displayName": "LelouchXV3",
+        "steamID": 76561198265054890
+      },
+      "time": 122000
+    },
+    {
+      "player": {
+        "displayName": "Golden_Flag",
+        "steamID": 76561198292330195
+      },
+      "time": 139330
+    }
+  ]
+}

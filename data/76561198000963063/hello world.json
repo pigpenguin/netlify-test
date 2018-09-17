@@ -1,0 +1,49 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561198000963063
+  },
+  "displayName": "Hello World",
+  "id": 587704015,
+  "description": "An awesome community level",
+  "fileName": "hello world",
+  "upvotes": 6,
+  "downvotes": 15,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 24110
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 65540
+    },
+    {
+      "player": {
+        "displayName": "Dangerdog",
+        "steamID": 76561198117510096
+      },
+      "time": 82570
+    },
+    {
+      "player": {
+        "displayName": "crazymaurice",
+        "steamID": 76561198039721430
+      },
+      "time": 234840
+    },
+    {
+      "player": {
+        "displayName": "Eonic",
+        "steamID": 76561198056007150
+      },
+      "time": 242840
+    }
+  ]
+}

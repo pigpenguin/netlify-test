@@ -1,0 +1,49 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561198069224426
+  },
+  "displayName": "Test Level 02",
+  "id": 407885456,
+  "description": "An awesome community level",
+  "fileName": "test level 02",
+  "upvotes": 22,
+  "downvotes": 26,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "The_Door_Man",
+        "steamID": 76561198069224426
+      },
+      "time": 105170
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 131880
+    },
+    {
+      "player": {
+        "displayName": "LegoRJ35",
+        "steamID": 76561198080716773
+      },
+      "time": 146250
+    },
+    {
+      "player": {
+        "displayName": "Nekaku",
+        "steamID": 76561198005257188
+      },
+      "time": 164430
+    },
+    {
+      "player": {
+        "displayName": "0xdeadbeef",
+        "steamID": 76561198023060804
+      },
+      "time": 513030
+    }
+  ]
+}

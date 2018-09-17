@@ -1,0 +1,42 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561198077817639
+  },
+  "displayName": "Untitled2",
+  "id": 587329560,
+  "description": "An awesome community level",
+  "fileName": "untitled2",
+  "upvotes": 7,
+  "downvotes": 10,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "tiedye",
+        "steamID": 76561198147688475
+      },
+      "time": 76450
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 83780
+    },
+    {
+      "player": {
+        "displayName": "FluffyTheZombie",
+        "steamID": 76561198134309424
+      },
+      "time": 87420
+    },
+    {
+      "player": {
+        "displayName": "Camel",
+        "steamID": 76561198001728979
+      },
+      "time": 89990
+    }
+  ]
+}

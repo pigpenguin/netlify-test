@@ -1,0 +1,42 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561198095740293
+  },
+  "displayName": "Simple level",
+  "id": 945479441,
+  "description": "An awesome community level",
+  "fileName": "test",
+  "upvotes": 0,
+  "downvotes": 4,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "PPPaul",
+        "steamID": 76561198023567939
+      },
+      "time": 46800
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 48290
+    },
+    {
+      "player": {
+        "displayName": "TheAustraliumGibus",
+        "steamID": 76561198095740293
+      },
+      "time": 50760
+    },
+    {
+      "player": {
+        "displayName": "MrMii",
+        "steamID": 76561198065540876
+      },
+      "time": 50990
+    }
+  ]
+}

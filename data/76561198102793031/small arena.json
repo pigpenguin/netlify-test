@@ -1,0 +1,56 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561198102793031
+  },
+  "displayName": "my second level",
+  "id": 846747482,
+  "description": "An awesome community level",
+  "fileName": "small arena",
+  "upvotes": 2,
+  "downvotes": 4,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "PPPaul",
+        "steamID": 76561198023567939
+      },
+      "time": 141020
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 141410
+    },
+    {
+      "player": {
+        "displayName": "nakor",
+        "steamID": 76561198079433143
+      },
+      "time": 218390
+    },
+    {
+      "player": {
+        "displayName": "CalKyanite",
+        "steamID": 76561198174641774
+      },
+      "time": 252830
+    },
+    {
+      "player": {
+        "displayName": "Nameless",
+        "steamID": 76561198068612657
+      },
+      "time": 352310
+    },
+    {
+      "player": {
+        "displayName": "Apple Encrypted",
+        "steamID": 76561198127687091
+      },
+      "time": 502250
+    }
+  ]
+}
